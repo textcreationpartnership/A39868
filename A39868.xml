@@ -1,0 +1,1677 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lucian's ghost: or, Dialogues between the dead, wandering in the Elyzian shades. Being certain satyrical remarques upon the vain ostentatious humours of several learned and philosophical men and women, as well ancient as modern. Composed first in French, and now paraphras'd into English, by a person of quality.</title>
+            <author>Fontenelle, M. de (Bernard Le Bovier), 1657-1757.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 124 KB of XML-encoded text transcribed from 71 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39868</idno>
+            <idno type="STC">Wing F1413B</idno>
+            <idno type="STC">ESTC R213744</idno>
+            <idno type="EEBO-CITATION">99826047</idno>
+            <idno type="PROQUEST">99826047</idno>
+            <idno type="VID">30439</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39868)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30439)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1759:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lucian's ghost: or, Dialogues between the dead, wandering in the Elyzian shades. Being certain satyrical remarques upon the vain ostentatious humours of several learned and philosophical men and women, as well ancient as modern. Composed first in French, and now paraphras'd into English, by a person of quality.</title>
+                  <author>Fontenelle, M. de (Bernard Le Bovier), 1657-1757.</author>
+               </titleStmt>
+               <extent>[16], 122, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for James Norris, at the King's Arms without Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A person of quality = Bernard le Bovier de Fontenelle.</note>
+                  <note>Final [2] leaves = advertisement.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30439:1" rendition="simple:additions"/>
+            <p>
+               <hi>LUCIAN</hi>'s <hi>GHOST:</hi> OR, DIALOGUES Between the Dead, wande<g ref="char:EOLhyphen"/>ring in the Elyzian Shades.</p>
+            <p>BEING Certain Satyrical Remarques upon the vain oſtentatious humours of ſeveral Learned and Philoſophical Men and Women, as well Anci<g ref="char:EOLhyphen"/>ent as Modern.</p>
+            <p>
+               <hi>Compoſed firſt in French, and now Paraphras'd into Engliſh, by a Perſon of Quality.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>James Norris,</hi> at the <hi>King's Arms</hi> without <hi>Temple-Bar.</hi> 1684.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:30439:2"/>
+            <pb facs="tcp:30439:2"/>
+            <head>THE EPISTLE DEDICATORY TO LUCIAN IN THE ELYZIAN FIELDS.</head>
+            <opener>
+               <salute>Illuſtrious Ghoſt,</salute>
+            </opener>
+            <p>IT is but Juſtice, that ha<g ref="char:EOLhyphen"/>ving borrowed an <hi>Idaea,</hi> which doth of right belong to, you, I ſhould at leaſt make my Acknowledgments, and pay my Homage for it to you, who do ſo juſtly merit it. That Per<g ref="char:EOLhyphen"/>ſon to whom an Author is moſt indebted, is the moſt proper
+<pb facs="tcp:30439:3"/>Hero for his Epiſtle Dedicato<g ref="char:EOLhyphen"/>ry; 'tis him alone he ought to Praiſe, and chuſe for his Pro<g ref="char:EOLhyphen"/>tector. Perhaps I may be ac<g ref="char:EOLhyphen"/>counted bold and raſh, for ha<g ref="char:EOLhyphen"/>ving dar'd to tread in your Paths, but I ſhould with much more reaſon have merited thoſe Appellations, if I onely had purſu'd the Traces of my own Fancy, and I may juſtly hope to have this advantage to make my own courſe Metal paſs cur<g ref="char:EOLhyphen"/>rently in the World, which ſo advantageouſly bears your I<g ref="char:EOLhyphen"/>mage and Character; and I am bold to ſay that if my Dia<g ref="char:EOLhyphen"/>logues have but the leaſt ſucceſs, they'll do you more Honour than your own, and ſhew that ſo
+<pb facs="tcp:30439:3"/>Excellent a deſign needs no o<g ref="char:EOLhyphen"/>ver-curious management. I Re<g ref="char:EOLhyphen"/>ly'd ſo much upon the firmneſs, and ſtability of the Founda<g ref="char:EOLhyphen"/>tion, that I thought a ſmall part on't might ſerve for ſo mean a ſuperſtructure. I have therefore left out <hi>Plato, Cha<g ref="char:EOLhyphen"/>ron, Cerberus,</hi> and ſuch Infer<g ref="char:EOLhyphen"/>nal company, who are ſo fre<g ref="char:EOLhyphen"/>quently Introduc'd in theſe En<g ref="char:EOLhyphen"/>tertainments. You have already made the beſt Remarks on the choiceſt Subjects, as on the vain and inſignificant fear of Death, the Affected Bravery and Re<g ref="char:EOLhyphen"/>ſolution of ſome Philoſophers, which they Aſſum'd when they were juſt giving up their Laſt, and the Ridiculous misfortunes
+<pb facs="tcp:30439:4"/>of young Gentlemen who dy'd before thoſe old Dotards whoſe Eſtates they Gap't after; ſo that there are onely Trifles Left for me: yet ſince the deſign is yours it cannot be unſuccesfull, and I make an Offering to you of that as the onely thing that merits your Acceptance. I have alſo been bold to imitate you in the end and Intentions of my converſations, by moralizing all my dialogues after your ex<g ref="char:EOLhyphen"/>ample, elſe what need had there been to have gone to Hell for company? If they had talk't their Ribaldry without deſign, living Mortals might have ſerv'd my Turn as well. Beſides, it's no difficult matter to ſup<g ref="char:EOLhyphen"/>poſe
+<pb facs="tcp:30439:4"/>the dead to make Reflexi<g ref="char:EOLhyphen"/>ons on the Follies of the Living, ſince they have been ſo well fur<g ref="char:EOLhyphen"/>niſh't, not onely by long Ex<g ref="char:EOLhyphen"/>perience, but by a calm and undiſturb'd Peace and Leaſure, and behold the Affairs of the world with ſuch Indifferency as gives 'em no concern in the con<g ref="char:EOLhyphen"/>ſequences and Events of 'em, and therefore moſt fitting to make their obſervations. You thought the Dead were no great Talkers, and therefore made all their Dialogues ſhort and pithy, and I have alſo made you my pattern in this particular as carrying much Reaſon and probability. The dead are Maſters of ſo much Wit, that they can preſently diſ<g ref="char:EOLhyphen"/>cern
+<pb facs="tcp:30439:5"/>the main ſcope and Intent of a Diſcourſe without windings and circumlocutions. The living only are thoſe who wanting ſenſe to underſtand one another's meanings do wrangle and diſ<g ref="char:EOLhyphen"/>pute, and like the blind do ſtumble in that Road they can't ſee; yet I am perſwaded that their Characters are not ſo much alter'd to forſake all their for<g ref="char:EOLhyphen"/>mer opinions, which they em<g ref="char:EOLhyphen"/>brac'd with ſo much Eagerneſs in the world; wherefore I have ſo far comply'd with the mode and cuſtom as to draw 'em in the ſame Colours now they are dead, by which they were repreſented to us when they were living. You thought it not improper to
+<pb facs="tcp:30439:5"/>raiſe Imaginary Ghoſts, and to attribute the glory of ſome Ad<g ref="char:EOLhyphen"/>ventures to others, who never merited 'em. But I have no reaſon to aſſume this Privilege, ſince Hiſtory has furniſh't me with ſo many true Relations, that I have no need of having recourſe to Fiction for ſuccour. But be you not ſurpriz'd that I make the Dead ſo frequently to converſe about the Affairs of the upper world which happened ſo long after they had quitted it, becauſe ſo much Company is ſtill coming thence who bring 'em freſh Intelligence. Renown'd Shade, I doubt not but your Candour is as great as was your Wit, and that you will eaſily pardon the Im<g ref="char:EOLhyphen"/>perfections
+<pb facs="tcp:30439:6"/>perfections of the Living, but eſpecially his who has no other pretenſions than to imitate ſo excellent a Copy as yours.</p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 13. line 10. for <hi>the whole</hi> reade <hi>our.</hi> pag. 41. lin. 24. for <hi>Oratour</hi> r. <hi>Poet.</hi> p. 44. l. 12. dele <hi>of.</hi> p. 86. for <hi>Ambitious</hi> r. <hi>Ambiti<g ref="char:EOLhyphen"/>on's.</hi> p. 88. l. 18. r. <hi>moſt ſenſibly.</hi> p. 91. l. 4. r. <hi>had been.</hi> p. 91. l. 14. for <hi>ſate</hi> r. <hi>ſets.</hi> p. 96. l. 6. dele <hi>that.</hi>
+            </p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:30439:6"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <head>Dialogues of the Ancients.</head>
+               <item>I. Alexander. Phryne. <hi>A Compariſon between Beauty and Greatneſs.</hi>
+               </item>
+               <item>II. Milo. Smindarides. <hi>On Delicacy.</hi>
+               </item>
+               <pb facs="tcp:30439:7"/>
+               <item>III. Dido. Stratonice. <hi>On that Amour which</hi> Virgil <hi>falſely attributes to</hi> Dido.</item>
+               <item>IV. Anacreon. Ariſtotle. <hi>On Philoſophy.</hi>
+               </item>
+               <item>V. Homer. Aeſop. <hi>On the Myſteries which are veild in</hi> Homer<hi>'s Works.</hi>
+               </item>
+               <item>VI. Athenais. Icaſia. <hi>On the Fantaſticalneſs of Fortune.
+<pb facs="tcp:30439:7"/>Dialogues of the Ancients with the Moderns.</hi>
+               </item>
+               <item>I. Auguſtus. Peter Aretine. <hi>On Praiſes.</hi>
+               </item>
+               <item>II. Sappho. Laura. <hi>Whether it be moſt proper for the Man or Woman to make the firſt Courtſhip.</hi>
+               </item>
+               <item>III. Socrates. Montaigne. <hi>Whether the Ancient or Modern Ages were moſt Vertuous.</hi>
+               </item>
+               <pb facs="tcp:30439:8"/>
+               <item>IV. <hi>The Emperour</hi> Adrian. Margaret <hi>of</hi> Auſtria. <hi>What Deaths are moſt generous.</hi>
+               </item>
+               <item>V. Eraſiſtratus. Harvey. <hi>Of what advantage the Modern Diſ<g ref="char:EOLhyphen"/>coveries are in Natural Philoſophy and Phyſick.</hi>
+               </item>
+               <item>VI. eren ice. Coſme II. <hi>de Medicis. On the Immortality of one's Name.</hi>
+               </item>
+            </list>
+            <list>
+               <pb facs="tcp:30439:8"/>
+               <head>Dialogues of the Moderns.</head>
+               <item>I. Anne <hi>of</hi> Britain. Mary <hi>of</hi> England. <hi>A Compariſon between Love and Am<g ref="char:EOLhyphen"/>bition.</hi>
+               </item>
+               <item>II. Charles V. Eraſmus. <hi>Whether there be any thing on which a Man ought to value himſelf.</hi>
+               </item>
+               <item>III. Q. Elizabeth. Duke d'Alenzon. <hi>On the Emptineſs of Pleaſures.</hi>
+               </item>
+               <pb facs="tcp:30439:9"/>
+               <item>IV. William de Cabeſtan. Albert Fre<g ref="char:EOLhyphen"/>derick of Brandenburg. <hi>On Folly.</hi>
+               </item>
+               <item>V. Agnes Sorel. Roxilana. <hi>On the Power of Women.</hi>
+               </item>
+               <item>VI. Joan <hi>of</hi> Naples. Anſelm. <hi>On the Eager deſire that Men have to know what will be.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="dialogues">
+            <pb n="1" facs="tcp:30439:9"/>
+            <head>
+               <hi>LUCIAN</hi>'s <hi>GHOST:</hi> OR, DIALOGUES Between the Dead, <hi>&amp;c.</hi>
+            </head>
+            <div n="1" type="dialogue">
+               <head>DIALOGUE I. <hi>Between</hi> Alexander <hi>and</hi> Phryne.</head>
+               <sp>
+                  <speaker>Phryne.</speaker>
+                  <p>ALL the <hi>The bans</hi> of my time can tell you, I offered at my own Expence to Re-build the Walls of
+<pb n="2" facs="tcp:30439:10"/>
+                     <hi>Thebes,</hi> which you had Demoliſh't, provided onely they would ſet up this Inſcription on 'em, <hi>Alexander the Great Raz'd theſe Walls, but</hi> Phryne <hi>the Curtizan Rear'd them up again.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>It ſeems then you were ex<g ref="char:EOLhyphen"/>tremely afraid, leſt ſucceeding Ages might be ignorant, how well you thriv'd in your Vocation.</p>
+               </sp>
+               <sp>
+                  <speaker>Phr.</speaker>
+                  <p>I have been Eminent, and all extraordinary perſons, of what Profeſſion ſoever, are guilty of ſo much vanity, as to covet to Eter<g ref="char:EOLhyphen"/>nize their Names by Monuments and Inſcriptions.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>'Tis true, <hi>Rhodope</hi> did the ſame before you, and heap't toge<g ref="char:EOLhyphen"/>ther ſo much Money by the ſame profeſſion, as ſerv'd to Erect one of the ſtatelieſt Pyramids of <hi>Egypt.</hi> And I remember, being in company to'ther day with ſome Modern La<g ref="char:EOLhyphen"/>dies (who had, like you, no mean opinion of their Beauty) to whom
+<pb n="3" facs="tcp:30439:10"/>ſhe making a Relation of her Victo<g ref="char:EOLhyphen"/>ries, and the Monument ſhe had Rear'd to perpetuate their Memory. Theſe diſcontented Shades began to lament the Age wherein they liv'd, when the moſt Charming were un<g ref="char:EOLhyphen"/>able to raiſe ſuch Trophies to their Conqueſts.</p>
+               </sp>
+               <sp>
+                  <speaker>Phr.</speaker>
+                  <p>But ſtill you muſt acknow<g ref="char:EOLhyphen"/>ledge, I have this advantage over <hi>Rhodope,</hi> That in Re-building the Walls of <hi>Thebes,</hi> I am plac'd in Com<g ref="char:EOLhyphen"/>petition with you, the great Con<g ref="char:EOLhyphen"/>querour of the Univerſe; That the World might know my Beauty had Repair'd thoſe Ruines which your Valour made.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>So, you have drawn a pa<g ref="char:EOLhyphen"/>rallel between two things which was ne'er thought on before: It ſeems then you were very well pleas'd with your ſelf, for knowing how to manage ſo many Intrigues ſo much to your own advantage.</p>
+               </sp>
+               <sp>
+                  <pb n="4" facs="tcp:30439:11"/>
+                  <speaker>Phr.</speaker>
+                  <p>And you were no leſs ſatis<g ref="char:EOLhyphen"/>fied to have lain the better part of the World in Heaps of Rubbiſh. But how had you been deceived, if there had been a <hi>Phryne</hi> in every Town you Conquered, when you could have left no marks of your fury behind you?</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Were I to live my life once over again, I would be the ſame <hi>Alexander,</hi> and the ſame great Conquerour.</p>
+               </sp>
+               <sp>
+                  <speaker>Phr.</speaker>
+                  <p>And I would be the ſame Little Conquerour again. Beauty by right of Nature preſides o'er men, whereas Valour is indebted to Force and Power for all its Empire. The Fair are Victors every where, which Kings and Emperors cannot pretend to: But more clearly to convince you, I grant your Father <hi>Philip</hi> was a Valiant man, and ſo were you; yet neither of you were able to ſtop the mouth of the Orator <hi>Demoſthe<g ref="char:EOLhyphen"/>nes</hi> from declaiming againſt you all
+<pb n="5" facs="tcp:30439:11"/>his life. Yet there was another <hi>Phryne</hi> beſides my ſelf (I think the very name is happy) who being ready to loſe her Cauſe, which was of no ſmall conſequence, and her Advocate having ſhowr'd down all his Elo<g ref="char:EOLhyphen"/>quence in vain, ſhe bethought her ſelf of a more powerfull Argument, and more ſuitable to the preſent ex<g ref="char:EOLhyphen"/>tremity of her Affairs: She onely unvail'd her Face, at whoſe Luſtre the Court was ſo ſurpriz'd, that whereas before they were juſt rea<g ref="char:EOLhyphen"/>dy to give ſentence againſt her, all of a ſudden they chang'd their opi<g ref="char:EOLhyphen"/>nions. From whence you may ob<g ref="char:EOLhyphen"/>ſerve, that though the Terrour of your Arms, for many years, could not make one Orator hold his peace, yet the Charms of one handſome Face in one moment ſilenc'd the loudeſt Advocates, and corrupted a whole Areopagite.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>What? though you have call'd another <hi>Phryne</hi> to your Aid,
+<pb n="6" facs="tcp:30439:12"/>I don't think that the Cauſe of <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> is ſo weak; 'twere ſtrange in<g ref="char:EOLhyphen"/>deed if—</p>
+               </sp>
+               <sp>
+                  <speaker>Phr.</speaker>
+                  <p>I know well enough what you are going to ſay, that <hi>Greece, Aſia, Perſia,</hi> and the <hi>Indies,</hi> were mighty Conqueſts. Nevertheleſs, if I ſhould deveſt you of that Glory, which by Right belongs not to you; If I ſhould give to all your Souldi<g ref="char:EOLhyphen"/>ers and Captains, and even to Chance it ſelf what properly is their due, can you imagine but you will be a loſer? But a handſome Woman lets no one partake in the Honour of her Conqueſts, and is therefore behold<g ref="char:EOLhyphen"/>ing to no one but her ſelf: Believe me, a fair Woman has no reaſon to complain of Nature for having made her ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>It ſeems then you are very poſitive in your opinion: But can you think to ſtretch the number of yours beyond the Glory of my Con<g ref="char:EOLhyphen"/>queſts?</p>
+               </sp>
+               <sp>
+                  <pb n="7" facs="tcp:30439:12"/>
+                  <speaker>Phr.</speaker>
+                  <p>Yes, without vanity I do; yet I muſt needs declare, that I have as far ſurpaſs'd the bare Character and ordinary pretenſions of a hand<g ref="char:EOLhyphen"/>ſome Woman, as you have done that of a prudent General; for you and I have gain'd too many Victories e'er to take ſuch meaſures; had I entertain'd but two or three A<g ref="char:EOLhyphen"/>mours, It had been no more than what's cuſtomary, and merits not to be regarded: But to be able to re-build the Walls of <hi>Thebes,</hi> by the Number and Riches of my Gallants, is Tranſcendant, and ſurpaſſes all the Rules and Meaſures of my Sex. So, on the other ſide, if you had onely Conquered <hi>Greece,</hi> with ſome of the Neighbouring Iſlands, and perhaps ſome ſmall part of the Leſſer <hi>Aſia,</hi> ſo as to be able to reduce 'em within the compaſs of one Monar<g ref="char:EOLhyphen"/>chy, it had been onely rational and diſcreet: But to be always on the March, and yet not knowing whi<g ref="char:EOLhyphen"/>ther;
+<pb n="8" facs="tcp:30439:13"/>To be always Taking Towns, without knowing wherefore; and to be ſtill Enterprizing without de<g ref="char:EOLhyphen"/>ſign: This is what the moſt think<g ref="char:EOLhyphen"/>ing ſort of men call Raſh and Extra<g ref="char:EOLhyphen"/>vagant.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Let theſe thinking men ſay what they pleaſe; had I confin'd my Valour and Fortune within the compaſs of their Politicks, my Name and Memory would have been quite forgotten by ſucceeding Ages.</p>
+               </sp>
+               <sp>
+                  <speaker>Phr.</speaker>
+                  <p>And ſo had mine, had I us'd the ſame wiſe Conduct in the di<g ref="char:EOLhyphen"/>ſtribution of my Favours. For who<g ref="char:EOLhyphen"/>ever deſigns to become Eminent, may be ſatisfy'd, that the moſt ra<g ref="char:EOLhyphen"/>tional methods are not always the moſt proper.</p>
+               </sp>
+            </div>
+            <div n="2" type="dialogue">
+               <pb n="9" facs="tcp:30439:13"/>
+               <head>DIALOGUE II. <hi>Between</hi> Milo <hi>&amp;</hi> Smindarides.</head>
+               <sp>
+                  <speaker>Smind.</speaker>
+                  <p>YOu think you have gain'd a great deal of Honour, becauſe at the Olympick Games you were able to carry an Oxe upon your ſhoulders.</p>
+               </sp>
+               <sp>
+                  <speaker>Mile.</speaker>
+                  <p>'Twas certainly a very gal<g ref="char:EOLhyphen"/>lant Action, and had the Applauſes of all <hi>Greece;</hi> the Fame on't reach't even the Remote <hi>Crotonia,</hi> my own Native Countrey, which has been ſo Eminent for Wreſtlers; but your Town of <hi>Sybaris</hi> has been derided by every body, becauſe of the Effe<g ref="char:EOLhyphen"/>minacy of its Inhabitants, who Ba<g ref="char:EOLhyphen"/>niſh't all their Cocks, becauſe their Crowing diſturb'd their Reſt; and invited their Gueſts to Feaſts, a year before they made 'em, that they
+<pb n="10" facs="tcp:30439:14"/>might have time to provide every thing which was delicate and grate<g ref="char:EOLhyphen"/>full to the palate.</p>
+               </sp>
+               <sp>
+                  <speaker>Smind.</speaker>
+                  <p>You make your ſelf very merry with the <hi>Sybarites:</hi> But thou dull <hi>Crotonian</hi> art not ſenſible, that when thou boaſteſt thou art able to carry an Oxe, thou own'ſt that thou art not unlike one?</p>
+               </sp>
+               <sp>
+                  <speaker>Milo.</speaker>
+                  <p>And can you believe your ſelf a man, when you have com<g ref="char:EOLhyphen"/>plained to have paſt whole nights without Repoſe, onely becauſe one of the Roſe-leaves of which your bed was made, was doubled?</p>
+               </sp>
+               <sp>
+                  <speaker>Smind.</speaker>
+                  <p>'Tis true, I acknowledge my ſelf a man of that delicacy. But wherefore does it ſeem ſo ſtrange to you?</p>
+               </sp>
+               <sp>
+                  <speaker>Milo.</speaker>
+                  <p>Pray, how is it poſſible it ſhould ſeem otherwiſe?</p>
+               </sp>
+               <sp>
+                  <speaker>Smind.</speaker>
+                  <p>What? have you never ſeen a Lover, who has receiv'd ma<g ref="char:EOLhyphen"/>ny Favours from his Miſtreſs, and to whom he has been no leſs Aſſidu<g ref="char:EOLhyphen"/>ous
+<pb n="11" facs="tcp:30439:14"/>in his Services? yet how con<g ref="char:EOLhyphen"/>cern'd he is in the very poſſeſſion of his happineſs, leſt Gratuity ſhould have the Aſcendant in the heart of his Miſtreſs above her Inclinati<g ref="char:EOLhyphen"/>ons?</p>
+               </sp>
+               <sp>
+                  <speaker>Milo.</speaker>
+                  <p>No truly, I ne'er knew any ſuch Lover; yet granting, I had—</p>
+               </sp>
+               <sp>
+                  <speaker>Smind.</speaker>
+                  <p>Or have you never heard of ſome Renowned Conquerour, who on his return home from ſome glorious Expedition, yet did not find that ſatisfaction in the Triumph the World imagin'd, becauſe he thought himſelf indebted more to Fortune, than either his Valour or good Conduct, and all his deſigns ſucceeded upon falſe and ill taken meaſures?</p>
+               </sp>
+               <sp>
+                  <speaker>Milo.</speaker>
+                  <p>No, no; I never heard of any ſuch Warriour: But once again, what would you conclude from hence?</p>
+               </sp>
+               <sp>
+                  <speaker>Smind.</speaker>
+                  <p>That this Lover, and this Conquerour, and almoſt all Man<g ref="char:EOLhyphen"/>kind,
+<pb n="12" facs="tcp:30439:15"/>though they lye on Beds of Roſes, yet the folding but of one Leaf might be enough to diſturb their reſt. A very ſmall uneaſineſs is ſufficient to deſtroy our pleaſures; and theſe are our Beds of Roſes, where 'twill be a matter of ſome difficulty to make all the Leaves lye ſmooth and eaſie.</p>
+               </sp>
+               <sp>
+                  <speaker>Milo.</speaker>
+                  <p>I muſt confeſs, I am not very knowing in theſe matters; but in my opinion, you, your Ima<g ref="char:EOLhyphen"/>ginary Lover, and your Conque<g ref="char:EOLhyphen"/>rour, and every body elſe of this temper, doe your ſelves a great deal of wrong by being ſo over-nice and delicate.</p>
+               </sp>
+               <sp>
+                  <speaker>Smind.</speaker>
+                  <p>Ah <hi>Milo!</hi> Men of wit are no <hi>Crotonians,</hi> as thou art, but <hi>Syba<g ref="char:EOLhyphen"/>rites</hi> like me.</p>
+               </sp>
+               <sp>
+                  <speaker>Milo.</speaker>
+                  <p>Now I gueſs what you would be at; That nature having made 'em of a more delicate frame than ordinary, they would enjoy too many pleaſures, if the fineneſs
+<pb n="13" facs="tcp:30439:15"/>and ſubtilty of their Reaſon did not deveſt 'em of thoſe that were ſuper<g ref="char:EOLhyphen"/>fluous.</p>
+               </sp>
+               <sp>
+                  <speaker>Smind.</speaker>
+                  <p>You're miſtaken in your Gueſſes; men of wit have no plea<g ref="char:EOLhyphen"/>ſures that are ſuperfluous.</p>
+               </sp>
+               <sp>
+                  <speaker>Milo.</speaker>
+                  <p>Then they are fools to take ſo much pains to deſtroy their own happineſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Smind.</speaker>
+                  <p>Behold the miſery of the whole Creation; Mankind onely does enjoy this fineneſs of temper, which is produc'd by the brisk and and lively motion of the blood and ſpirits: Every body is ſatisfy'd with himſelf, when he has it; and he that has it not, is ſtill in purſuit after it; yet it diminiſhes our plea<g ref="char:EOLhyphen"/>ſures, and makes 'em flat and dull, which of their own natures are in<g ref="char:EOLhyphen"/>ſipid enough. How miſerable there<g ref="char:EOLhyphen"/>fore is the condition of humane na<g ref="char:EOLhyphen"/>ture, that's furniſh't but with ſo few delights, and yet our ſubtile reaſon marrs 'em all in the enjoyment.</p>
+               </sp>
+            </div>
+            <div n="3" type="dialogue">
+               <pb n="14" facs="tcp:30439:16"/>
+               <head>DIALOGUE III. <hi>Between</hi> Dido <hi>and</hi> Stratonice.</head>
+               <sp>
+                  <speaker>Dido.</speaker>
+                  <p>ALas! my <hi>Stratonice,</hi> how unfortunate am I? you muſt needs have heard how I liv'd the mirrour of Chaſtity, and prov'd ſo conſtant to my firſt Vows, that I choſe rather to burn alive, and ſa<g ref="char:EOLhyphen"/>crifice my ſelf to the ſhade of my firſt Husband, than endure a ſecond. Yet I could not ſecure my ſelf from the Cenſure of evil Tongues as to my very death, which was the Crown and Ornament of my life. It has pleas'd a certain Poet, called <hi>Virgil,</hi> to change me (who always had the reputation of a wiſe and prudent Matron) into a young Co<g ref="char:EOLhyphen"/>quet, who let her ſelf be Charm'd with the good Meen of a ſtranger,
+<pb n="15" facs="tcp:30439:16"/>the firſt day ſhe ſaw him; and in fine, he has turn'd the whole Hiſto<g ref="char:EOLhyphen"/>ry of my Life into a Romance. Yet he would not rob me of my laſt Funeral Pyle: But can you gueſs the Reaſon he gives, why I caſt my ſelf into it? not to avoid a ſecond Marriage, but deſpair of ſeeing my ſelf forſaken by the handſome ſtranger.</p>
+               </sp>
+               <sp>
+                  <speaker>Straton.</speaker>
+                  <p>On my word ſuch fain'd Relations may prove of very ill conſequence to the World, and we ſhall have but few Women die Mar<g ref="char:EOLhyphen"/>tyrs to Conjugal Fidelity, if every Capricious Poet may take the li<g ref="char:EOLhyphen"/>berty of ſaying what he pleaſes of 'em, after they are dead; perhaps <hi>Virgil</hi> has not done you ſo much in<g ref="char:EOLhyphen"/>jury, though as you imagine, and has onely diſoblig'd you by diſco<g ref="char:EOLhyphen"/>vering ſome Intrigue which you hop't would be concealed.</p>
+               </sp>
+               <sp>
+                  <speaker>Dido.</speaker>
+                  <p>Had there been any proba<g ref="char:EOLhyphen"/>bility in the Amour, which the
+<pb n="16" facs="tcp:30439:17"/>Poet would make me entertain, I ſhould not ſo much complain of him. But he gives me <hi>Aeneas</hi> for my Lover, a man that left the World Three hundred years before I came into it.</p>
+               </sp>
+               <sp>
+                  <speaker>Straton.</speaker>
+                  <p>I muſt confeſs, that what you ſay is ſomething; yet there is ſo great a Reſemblance in the ſeve<g ref="char:EOLhyphen"/>ral Stories of your Lives, that you ſeem very much to be made the one for the other; you were both con<g ref="char:EOLhyphen"/>ſtrain'd to forſake your native Lands, and try your Fortunes in Foreign Kingdoms. He was a Widower, and you a Widow; ſo that the A<g ref="char:EOLhyphen"/>greement of your Loves might well Anſwer that of your Fates. 'Tis true, you were born Three hundred years after him; yet the Poet had ſo much Reaſon to make you meet and Love, that he might very well diſpence with Three hundred years, and thought it not of conſequence enough to ſpoil ſo plauſible an A<g ref="char:EOLhyphen"/>mour.</p>
+               </sp>
+               <sp>
+                  <pb n="17" facs="tcp:30439:17"/>
+                  <speaker>Dido.</speaker>
+                  <p>What ſort of Reaſoning is this? are not Three hundred years always Three hundred years? and how can two perſons living at this diſtance meet and love?</p>
+               </sp>
+               <sp>
+                  <speaker>Straton.</speaker>
+                  <p>'Twas in this very point that <hi>Virgil</hi> hath moſt ſhew'd his wit; he was a man that underſtood the world, and well knew that in ſuch Amorous Entertainments, men judge not of the truth of the Rela<g ref="char:EOLhyphen"/>tion by the ſpeciouſneſs of its ap<g ref="char:EOLhyphen"/>pearance, but ſometimes by the ve<g ref="char:EOLhyphen"/>ry improbability of the Story.</p>
+               </sp>
+               <sp>
+                  <speaker>Dido.</speaker>
+                  <p>I am not well ſatisfy'd that he has fix't his handſome Myſteries, and plauſible Romances, on me.</p>
+               </sp>
+               <sp>
+                  <speaker>Straton.</speaker>
+                  <p>Why? has he Ridicul'd you, and made you ſpeak imperti<g ref="char:EOLhyphen"/>nently any where?</p>
+               </sp>
+               <sp>
+                  <speaker>Dido.</speaker>
+                  <p>Neither; 'Tis my Charac<g ref="char:EOLhyphen"/>ter which gives his Poem all its beauty; and though he has bely'd me, yet there is ſomething Divine in his very Fiction; and had he
+<pb n="18" facs="tcp:30439:18"/>been oblig'd to have drawn me with my native Honeſty, his Aeneids would have loſt very much of their Luſtre.</p>
+               </sp>
+               <sp>
+                  <speaker>Straton.</speaker>
+                  <p>Wherefore then do you complain ſo much? Though he has ſully'd your Vertue which you ſo much rely'd on, yet in return he has given you Wit and Beauty, which perhaps you never could pre<g ref="char:EOLhyphen"/>tend to.</p>
+               </sp>
+               <sp>
+                  <speaker>Dido.</speaker>
+                  <p>What then? is that a ſuffi<g ref="char:EOLhyphen"/>cient recompence?</p>
+               </sp>
+               <sp>
+                  <speaker>Straton.</speaker>
+                  <p>I know not what temper you were of; but I'm ſure moſt women would rather have their Vertue ſully'd, than either their Wit or Beauty; and I do ingenuouſly acknowledge to you, it was my temper. There came a Painter to the Court of the King of <hi>Syria,</hi> my Husband, who on ſome occaſion I had diſoblig'd; and to revenge him<g ref="char:EOLhyphen"/>ſelf on me, Painted me in the Em<g ref="char:EOLhyphen"/>braces of a Common Souldier; and
+<pb n="19" facs="tcp:30439:18"/>having expos'd the Picture, fled; my Subjects, zealous for my Honour, would publickly have burnt it; but becauſe he had drawn me ſo admi<g ref="char:EOLhyphen"/>rably well (though the motions he gave it were more to the advantage of my Beauty than Vertue) I pre<g ref="char:EOLhyphen"/>ſerv'd it from the flames, and ſent kindly for the Painter, and pardon'd him: Now if you had been of my mind, you ſhould have dealt with <hi>Virgil</hi> after the ſame manner.</p>
+               </sp>
+               <sp>
+                  <speaker>Dido.</speaker>
+                  <p>If Wit and Beauty were the moſt conſiderable Qualifications of a Lady, it were not then amiſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Straton.</speaker>
+                  <p>I can't decide to which the precedency is due; but in Com<g ref="char:EOLhyphen"/>mon Converſation, if the diſcourſe be of a Woman, who is a ſtranger to any of the company; the firſt que<g ref="char:EOLhyphen"/>ſtion is, whether ſhe be handſome; the ſecond, if ſhe have Wit; and it rarely happens that any body gives himſelf the trouble to ask a third.</p>
+               </sp>
+            </div>
+            <div n="4" type="dialogue">
+               <pb n="20" facs="tcp:30439:19"/>
+               <head>DIALOGUE IV. <hi>Between</hi> Anacreon <hi>&amp;</hi> Ariſtotle.</head>
+               <sp>
+                  <speaker>Ariſt.</speaker>
+                  <p>I Could not have believ'd that a Sonnet-maker ſhould have the confidence to compare him<g ref="char:EOLhyphen"/>ſelf with a Philoſopher, and one of my Reputation too.</p>
+               </sp>
+               <sp>
+                  <speaker>Anac.</speaker>
+                  <p>You would make the name of a Philoſopher ſound very great; I can aſſure you my Songs have pur<g ref="char:EOLhyphen"/>chas'd me the title of the wiſe <hi>Ana<g ref="char:EOLhyphen"/>creon;</hi> and I'm ſure there's no Phi<g ref="char:EOLhyphen"/>ſopher can pretend to a better Epi<g ref="char:EOLhyphen"/>thete.</p>
+               </sp>
+               <sp>
+                  <speaker>Ariſt.</speaker>
+                  <p>Thoſe that gave it you, ei<g ref="char:EOLhyphen"/>ther did it onely out of Ceremony and Complement, or elſe they knew not what they ſaid: For what have you e'er done to merit that Cha<g ref="char:EOLhyphen"/>racter?</p>
+               </sp>
+               <sp>
+                  <pb n="21" facs="tcp:30439:19"/>
+                  <speaker>Anacr.</speaker>
+                  <p>Why? I have drank, and ſang, and been very amorous, and ſo I gain'd the title of Wiſe for my reward; whereas you, for all thoſe infinite pains you have taken, have got no other than that of the Phi<g ref="char:EOLhyphen"/>loſopher. How many nights have you watch't to no other purpoſe, than to amuſe the world with thorny Queſtions in your Dialecticks? how many huge Volumes have you com<g ref="char:EOLhyphen"/>pos'd on ſuch obſcure and intricate Subjects, that I queſtion very much whether you your ſelf could under<g ref="char:EOLhyphen"/>ſtand your own Writings?</p>
+               </sp>
+               <sp>
+                  <speaker>Ariſt.</speaker>
+                  <p>Indeed you have found out a very commodious and eaſie way to be thought wiſe, and purchaſe more honour by your Lute and your Bottle, than the greateſt men in the World could do by all their labour and induſtry.</p>
+               </sp>
+               <sp>
+                  <speaker>Anacr.</speaker>
+                  <p>You pretend, I think, to Rally; but I'll maintain, 'tis more difficult to drink and ſing, as I have,
+<pb n="22" facs="tcp:30439:20"/>than to play the Philoſopher, like you; for to drink and ſing aright, one ought to have his mind calm and quiet, and free from all the Guſts of Paſſion, not to aim at that which is out of ones reach, and to lay hold on Time always when 'tis in ones poſſeſſion; and in a word, there are ſo many diſorders to be regulated e'er a man can arrive to this pitch and good humour, (though there be no great need of Logick) yet 'twill coſt him ſome pains be<g ref="char:EOLhyphen"/>fore he can attain it. But 'tis poſſi<g ref="char:EOLhyphen"/>ble for a man to be a Philoſopher with much leſs trouble and difficul<g ref="char:EOLhyphen"/>ty; he need not deſpoil himſelf nei<g ref="char:EOLhyphen"/>ther of his Ambition, nor his Ava<g ref="char:EOLhyphen"/>rice; he may make his appearance at the Court of <hi>Alexander</hi> the Great, and receive Preſents to the value of Five hundred thouſand Crowns, on pretence of making Philoſophical Experiments; yet contrary to the Intention of the Donor, reſerve the
+<pb n="23" facs="tcp:30439:20"/>greateſt part to his own private uſe; but true Philoſophy is very oppoſite to ſuch practices.</p>
+               </sp>
+               <sp>
+                  <speaker>Ariſt.</speaker>
+                  <p>Certainly you have had a very ill Character given of me by ſome body, that you are ſo much prejudic'd; but I'll ſtill maintain, a man's no longer ſo without his rea<g ref="char:EOLhyphen"/>ſon; and there can be nothing more glorious, than to inſtruct Mankind in the ſearch of Nature, and to un<g ref="char:EOLhyphen"/>vail all thoſe Riddles and Difficul<g ref="char:EOLhyphen"/>ties which can be propos'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Anacr.</speaker>
+                  <p>Do but obſerve how thoſe men put their falſe Gloſſes on things, and turn all up-ſide-down. Philo<g ref="char:EOLhyphen"/>ſophy is in it ſelf a very admirable thing, and may be of great advan<g ref="char:EOLhyphen"/>tage to Mankind, if rightly made uſe of; yet becauſe 'tis a little un<g ref="char:EOLhyphen"/>eaſie to their humour, in that they are oblig'd to apply it to themſelves, in ſubduing of their paſſions; they have therefore mounted it up unto Heaven to obſerve the motion of
+<pb n="24" facs="tcp:30439:21"/>the Stars, or elſe they make it walk on the Earth, to make their fanta<g ref="char:EOLhyphen"/>ſtical Remarks on every trifling Ob<g ref="char:EOLhyphen"/>ject; and, in fine, they are very carefull to employ it on any thing that is remote from themſelves. Nevertheleſs they would purchaſe to themſelves the title of Philoſo<g ref="char:EOLhyphen"/>phers at this eaſie rate, though they are onely in purſuit of natural Cauſes.</p>
+               </sp>
+               <sp>
+                  <speaker>Ariſt.</speaker>
+                  <p>And what more ſuitable name can be given to 'em?</p>
+               </sp>
+               <sp>
+                  <speaker>Anacr.</speaker>
+                  <p>Philoſophy has relation onely to Man, the leſſer World, without having any proſpect to the greater. 'Tis the part of an Aſtro<g ref="char:EOLhyphen"/>nomer to Contemplate the Stars, the Naturaliſt to ſtudy Nature, but the Philoſopher himſelf alone. But alas! this is too hard a Province for any of theſe pretenders, there<g ref="char:EOLhyphen"/>fore they ought to content them<g ref="char:EOLhyphen"/>ſelves with the bare title of an A<g ref="char:EOLhyphen"/>ſtronomer or a Naturaliſt, without
+<pb n="25" facs="tcp:30439:21"/>aſſuming that of a Philoſopher, for my part I never did deſire to amuſe my ſelf with their Airy Speculations, and in my opinion there is not ſo much of true Philoſophy to be found in ſome of their Books, which bear that ſpecious Title in the Fronteſ<g ref="char:EOLhyphen"/>piece, as there is in one of my Songs which you deſpiſe. I'll inſtance you in one.</p>
+                  <lg>
+                     <l>
+                        <hi>If Gold could bribe my Fate,</hi>
+                     </l>
+                     <l>
+                        <hi>To ſpin out Life beyond its date;</hi>
+                     </l>
+                     <l>
+                        <hi>I'd heap up ſhining Oar</hi>
+                     </l>
+                     <l>
+                        <hi>'Till my cramb'd Cheſts could hold no more.</hi>
+                     </l>
+                     <l>
+                        <hi>Then give it all to Deſtiny,</hi>
+                     </l>
+                     <l>
+                        <hi>At its approach to ſet me free.</hi>
+                     </l>
+                     <l>
+                        <hi>But ſince 't has no ſuch pow'r,</hi>
+                     </l>
+                     <l>
+                        <hi>To ſtem the Fleeting hours,</hi>
+                     </l>
+                     <l>
+                        <hi>I'll ſmooth'em all with Love &amp; Wine,</hi>
+                     </l>
+                     <l>
+                        <hi>Which do ſo equally combine,</hi>
+                     </l>
+                     <l>
+                        <hi>To make 'em happy whilſt they're mine.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Ariſt.</speaker>
+                  <p>Well, ſince you'll acknow<g ref="char:EOLhyphen"/>ledge that onely to be the true Phi<g ref="char:EOLhyphen"/>loſophy
+<pb n="26" facs="tcp:30439:22"/>which regards the regula<g ref="char:EOLhyphen"/>ting our Manners: You may find in my Treatiſes of Morality ſuch Rules as far ſurpaſs your Songs, and that obſcurity which you reproach me ſo with (and perhaps not with<g ref="char:EOLhyphen"/>out ſome reaſon, in ſome of my other more ſubtile Books) yet 'tis not to be found in theſe. And 'tis the vogue of the world that nothing can be more clear and fine.</p>
+               </sp>
+               <sp>
+                  <speaker>Anacr.</speaker>
+                  <p>How you abuſe your ſelf! The Controverſie is not how to de<g ref="char:EOLhyphen"/>fine the Paſſions, and divide 'em with that exactneſs as they ſay you have done, but to ſubdue 'em. Men eaſily become Votaries to that Phi<g ref="char:EOLhyphen"/>loſophy which onely obliges 'em to conſider the evils of their Nature without any proſpect to their cure. They have found out a Secret of being Moral Philoſophers with the ſame eaſe they can be Aſtronomers. How can one forbear laughing to hear men for money preach Con<g ref="char:EOLhyphen"/>tempt
+<pb n="27" facs="tcp:30439:22"/>of Riches, and errand Cow<g ref="char:EOLhyphen"/>ards ready to fall together by the Ears about the Definition of Magna<g ref="char:EOLhyphen"/>nimity?</p>
+               </sp>
+            </div>
+            <div n="5" type="dialogue">
+               <head>DIALOGUE V. <hi>Between</hi> Homer <hi>and</hi> Aeſop.</head>
+               <sp>
+                  <speaker>Homer.</speaker>
+                  <p>TRULY all thoſe Fables which you have reci<g ref="char:EOLhyphen"/>ted to me, cannot be enough admi<g ref="char:EOLhyphen"/>red; there had need be a great deal of Art to diſguiſe the moſt uſefull In<g ref="char:EOLhyphen"/>ſtructions, that Morality can give us in ſuch Facetious Tales, and to cover the ſeverity of its Precepts with ſuch eaſie and delightfull Sha<g ref="char:EOLhyphen"/>dows.</p>
+               </sp>
+               <sp>
+                  <speaker>Aeſop.</speaker>
+                  <p>It does not a little pleaſe me to be prais'd for Excelling in that Art by him who was ſo great a Maſter in't.</p>
+               </sp>
+               <sp>
+                  <pb n="28" facs="tcp:30439:23"/>
+                  <speaker>Homer.</speaker>
+                  <p>Who I? for my part I never pretended to it.</p>
+               </sp>
+               <sp>
+                  <speaker>Aeſop.</speaker>
+                  <p>What? did not you con<g ref="char:EOLhyphen"/>ceal the greateſt Myſteries in your Poems?</p>
+               </sp>
+               <sp>
+                  <speaker>Homer.</speaker>
+                  <p>Alas! not I.</p>
+               </sp>
+               <sp>
+                  <speaker>Aeſop.</speaker>
+                  <p>Yet all the Wits of the Age wherein I liv'd did maintain it, and there was nothing in your Iliads or Odyſſes to which they did not give the fineſt Allegories in the world, they would needs have it that neither Divinity, Natural Phi<g ref="char:EOLhyphen"/>loſophy, nay the Mathematicks too contain'd any thing that was excel<g ref="char:EOLhyphen"/>lent or curious but what was vail'd in your Poems, yet there was ſtill ſome difficulty in the diſcloſing of 'em, for where one would attribute to 'em a moral ſenſe, another would a natural, yet they all agreed in this that you had known and ſaid every thing, and there onely wanted a ca<g ref="char:EOLhyphen"/>pacity to diſcover it.</p>
+               </sp>
+               <sp>
+                  <speaker>Homer.</speaker>
+                  <p>I did imagine that there
+<pb n="29" facs="tcp:30439:23"/>would be ſome people, who would pretend to find out wit where 'twas never meant: and I writ my Fables with the ſame ſucceſs as he that propheſies of Future Ages, where poſterity takes care to find out the meaning and fulfill it.</p>
+               </sp>
+               <sp>
+                  <speaker>Aeſop.</speaker>
+                  <p>It ſeems you reli'd very much on the wit and candour of your Readers to find out Allegories where you never meant 'em, what would you have done had they taken 'em in the Literal ſenſe?</p>
+               </sp>
+               <sp>
+                  <speaker>Homer.</speaker>
+                  <p>Why truly I ſhould not have thought it ſo great a misfor<g ref="char:EOLhyphen"/>tune.</p>
+               </sp>
+               <sp>
+                  <speaker>Aeſop.</speaker>
+                  <p>What? that your Gods ſhould wound and mangle one ano<g ref="char:EOLhyphen"/>ther, and <hi>Jupiter</hi> the Thunderer at an Aſſembly of the Deities threaten to beat the mighty <hi>Juno?</hi> that the Warriour <hi>Mars</hi> ſhould bellow ſo loud as ten thouſand men, when he was wounded by <hi>Diomedes?</hi> and inſtead of taking the revenge of an Heroe,
+<pb n="30" facs="tcp:30439:24"/>and cutting all the Greeks in pieces, go crying to <hi>Jupiter</hi> to make com<g ref="char:EOLhyphen"/>plaint of his Wound? all this had been very fine without an Allegory?</p>
+               </sp>
+               <sp>
+                  <speaker>Homer.</speaker>
+                  <p>And why not? You may imagine that the wit of Man ſearches onely after Truth, but be not de<g ref="char:EOLhyphen"/>ceiv'd, Falſity and Humane Inventi<g ref="char:EOLhyphen"/>on ſympathize extremely. If you have Truth to tell, you had need diſguiſe it in a Fable to make it re<g ref="char:EOLhyphen"/>liſh: but if Fiction onely be your Province there's no need of inter<g ref="char:EOLhyphen"/>mixing Truth, 'twill better pleaſe without it, ſo that what's true dare not appear in its own native colours, but is conſtrain'd to borrow of ſome gawdy Fable to make it be receiv'd, whereas whatever is Fictitious need aſſume no other than its own. Man's wit and fancy being the place of its birth as well as of its abode, and to which Truth is always a Stranger. I'll tell you moreover, had I put my Invention upon the ſtretch, and al<g ref="char:EOLhyphen"/>moſt
+<pb n="31" facs="tcp:30439:24"/>crackt my Brains to find out Allegories and Alluſions, it might well have been that men would have ſwallow'd the Fable without having any proſpect to the Figure, and that's the reaſon that the Stories of my Gods and Heroes were not found ſo ridiculous.</p>
+               </sp>
+               <sp>
+                  <speaker>Aeſop.</speaker>
+                  <p>Oh! you make me trem<g ref="char:EOLhyphen"/>ble, then I fear 'tis believ'd that my Beaſts did really ſpeak, as I made 'em in my Fables.</p>
+               </sp>
+               <sp>
+                  <speaker>Homer.</speaker>
+                  <p>This Fear of yours is mighty pleaſant.</p>
+               </sp>
+               <sp>
+                  <speaker>Aeſop.</speaker>
+                  <p>Why? if it were really be<g ref="char:EOLhyphen"/>liev'd as you ſay, that the Gods had thoſe diſcourſes together, onely be<g ref="char:EOLhyphen"/>cauſe you related it, why might it not be credited with the ſame eaſe, that my Beaſts ſpake becauſe I ſaid it?</p>
+               </sp>
+               <sp>
+                  <speaker>Homer.</speaker>
+                  <p>Oh! The caſe is not the ſame, for men would very eaſily be<g ref="char:EOLhyphen"/>lieve that the Gods are as great Fools as they are, yet they won't allow Beaſts to be ſo wiſe.</p>
+               </sp>
+            </div>
+            <div n="6" type="dialogue">
+               <pb n="32" facs="tcp:30439:25"/>
+               <head>DIALOGUE VI. <hi>Between</hi> Athenais <hi>and</hi> Icaſia.</head>
+               <sp>
+                  <speaker>Icaſia.</speaker>
+                  <p>SInce you are willing to know the principal Ad<g ref="char:EOLhyphen"/>ventures of my Life, I'll tell it you in ſhort. The Emperour under whom we liv'd had an inclination to Marry, and to make the better choice of an Empreſs, he iſſued out his Proclamation to give notice, that if any Woman thought her Beauty capable of raiſing her to a Throne, ſhe ſhould on a prefixt day make her appearance at <hi>Conſtantino<g ref="char:EOLhyphen"/>ple,</hi> and (God knows) there were no ſmall number of pretenders; a<g ref="char:EOLhyphen"/>mong the reſt I was one, who had ſo good an opinion of my ſelf, that I thought my Youth and Beauty, the livelineſs of my Eyes, with the
+<pb n="33" facs="tcp:30439:25"/>ſweetneſs of my Air, and handſome<g ref="char:EOLhyphen"/>neſs of my Meen, might not with<g ref="char:EOLhyphen"/>out ſome reaſon raiſe my hopes to the Empire. On the meeting of this handſome Aſſembly we all ſur<g ref="char:EOLhyphen"/>vey'd each others Faces not without ſome uneaſineſs, and I obſerv'd when they came to mine they fixt their Eyes with Envy and Emulation. At length the Emperour came into the Aſlembly, and having taken ſeveral turns between our Beautifull ranks, when he came to me (juſt as I wiſht) he ſtopt, and beholding me with a loving Air, <hi>Indeed,</hi> ſays he, <hi>theſe Women are dangerous Creatures, be<g ref="char:EOLhyphen"/>ing capable of doing ſo much harm;</hi> I ſtreight believ'd I needed only ſhew a little wit to crown all my hopes, ſo between hope and fear I made this quick Reply. <hi>But, Sir, Women in re<g ref="char:EOLhyphen"/>compence can and have often done much good.</hi> But this unhappy Anſwer de<g ref="char:EOLhyphen"/>ſtroy'd all my pretenſions, for the Emperour fanſied it ſo witty, he dar'd not eſpouſe me.</p>
+               </sp>
+               <sp>
+                  <pb n="34" facs="tcp:30439:26"/>
+                  <speaker>Athen.</speaker>
+                  <p>Certainly this Emperour was of a very ſtrange humour ſo much to fear a witty Woman, and I doubt he had but little wit himſelf becauſe he found ſo much in your Reply; but to deal frankly, I think you had no ſuch great reaſon to be angry with your ſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>Ica.</speaker>
+                  <p>So the Fates would have it, that your wit alone ſhould make you Empreſs, and the very appearance on't defeat me. You were not one<g ref="char:EOLhyphen"/>ly witty but a Philoſopher too, and yet you could Eſpouſe the Emperour <hi>Theodoſius</hi> the younger.</p>
+               </sp>
+               <sp>
+                  <speaker>Athen.</speaker>
+                  <p>If I ſhould have had ſo ſad an Example as yours before my Eyes, I ſhould have been a little frighted tho'; for after my Father had bred me a Scholar, and given me all the advantages of Education, he diſin<g ref="char:EOLhyphen"/>herited me, ſuppoſing that my know<g ref="char:EOLhyphen"/>ledge in the Sciences was a very ample Fortune, and to ſpeak the truth, I believ'd ſo too. But now I
+<pb n="35" facs="tcp:30439:26"/>ſee my errour, and that I ran a very great risk of making no other For<g ref="char:EOLhyphen"/>tune but what my bare Philoſophy could give me.</p>
+               </sp>
+               <sp>
+                  <speaker>Icaſia.</speaker>
+                  <p>See now what uſe may be made of this Example, 'twould be pleaſant if ſome perſon on the like occaſion, who knowing my ſtory ſhould make this advantage of it, as not to ſhew her wit, though there were ne'er ſo fair an opportunity for it.</p>
+               </sp>
+               <sp>
+                  <speaker>Athen.</speaker>
+                  <p>I would not anſwer for her, that her ſtrategeme ſhould ſuc<g ref="char:EOLhyphen"/>ceed, ſince 'twas deſign'd. 'Tis thoſe follies we commit by chance that make us happy: have you never heard the Story of the Painter who drew a Bunch of Grapes ſo natural and fine that he deceiv'd the very Birds, who as ſoon as e'er they ſaw 'em expos'd, flew to taſte 'em? You may judge what reputation he got by this piece, they were paint<g ref="char:EOLhyphen"/>ed in the hand of a little Country
+<pb n="36" facs="tcp:30439:27"/>Boy, who was drawn in the ſame piece. It hapned that ſome perſon skilfull in that Art, commended the painting of the Grapes, which were ſo naturally drawn as to allure the Birds, but not the Boy becauſe he did fright them from 'em. And certainly his obſervation was very rational; yet if the Painter had re<g ref="char:EOLhyphen"/>membred to have drawn the Boy with the ſame exactneſs, he had ne<g ref="char:EOLhyphen"/>ver gain'd that honour by his Grapes.</p>
+               </sp>
+               <sp>
+                  <speaker>Ica.</speaker>
+                  <p>Well, I am ſatisfi'd, though we know how to take the juſteſt meaſures, yet we could not aſſure our ſelves of their ſucceſs: and this inſtance of the Painter might well make us tremble, leſt, like him, we had not made ſome neceſſary fault in the management of our affairs to make 'em proſperous. There's no<g ref="char:EOLhyphen"/>thing certain in the world above, ſince Fortune takes ſuch care to give different ſucceſſes to the ſame Acti<g ref="char:EOLhyphen"/>on; it baffles all their humane poli<g ref="char:EOLhyphen"/>cy,
+<pb n="37" facs="tcp:30439:27"/>and obliges Mankind to live without either Rule or Order.</p>
+               </sp>
+            </div>
+         </div>
+         <div type="dialogues">
+            <head>Dialogues of the Ancients and Moderns.</head>
+            <div n="1" type="dialogue">
+               <head>DIALOGUE I. <hi>Between</hi> Auguſtus <hi>and</hi> Pe<g ref="char:EOLhyphen"/>ter Aretine.</head>
+               <sp>
+                  <speaker>P. Aret.</speaker>
+                  <p>YES, I was one of the moſt eminent Wits of the Age, and Penſioner to the moſt conſidera<g ref="char:EOLhyphen"/>ble Princes in <hi>Europe.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <p>Then you were ſtill oblig'd
+<pb n="38" facs="tcp:30439:28"/>to write very much to their Advan<g ref="char:EOLhyphen"/>tage.</p>
+               </sp>
+               <sp>
+                  <speaker>P. Aret.</speaker>
+                  <p>Not at all: I receiv'd Gifts and Preſents from all of 'em, and that would never have been, had I made it my onely buſineſs to write Panegyricks. They were warring continually one with the other, and as ſome were the Conquerours, o<g ref="char:EOLhyphen"/>thers were diſtreſt, ſo that I could never commend'em all.</p>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <p>What did you then?</p>
+               </sp>
+               <sp>
+                  <speaker>P. Aret.</speaker>
+                  <p>I Lampoon'd 'em, and though I could not crowd 'em all in<g ref="char:EOLhyphen"/>to one Panegyrick, yet I could do it well enough in one Satyr. The terrour of my name had reach't ſo far, that the greateſt Princes paid me a conſtant Tribute, and their Purſes ſtill compounded for their Follies. The Emperour <hi>Charles</hi> V. (whom undoubtedly you have heard of here below) having made a very unſuc<g ref="char:EOLhyphen"/>ceſsfull War on the coaſt of <hi>Africk,</hi> on his return home made me a Pre<g ref="char:EOLhyphen"/>ſent
+<pb n="39" facs="tcp:30439:28"/>of a Golden Chain, which I re<g ref="char:EOLhyphen"/>ceived but coldly, and made the Bearer this Reply, <hi>That I thought it was not of ſufficient value to compound for ſo great a Folly.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <p>Then you had found out a new method to enrich your ſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>P. Aret.</speaker>
+                  <p>I think I had reaſon to hope to raiſe my Fortune on others Follies as being the moſt ſure and certain foundation.</p>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <p>Notwithſtanding all you can ſay to the contrary, the Art of praiſing is much the ſurer and the better way.</p>
+               </sp>
+               <sp>
+                  <speaker>Aret.</speaker>
+                  <p>Oh Lord, Sir, I never had Impudence enough to commend any body.</p>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <p>Yet you had enough to Li<g ref="char:EOLhyphen"/>bel every body.</p>
+               </sp>
+               <sp>
+                  <speaker>P. Aret.</speaker>
+                  <p>But your parallel will not hold, there's no neceſſity of deſpi<g ref="char:EOLhyphen"/>ſing thoſe we put in Satyrs, but to laſh 'em now and then for their Fol<g ref="char:EOLhyphen"/>lies, to teach 'em more diſcretion,
+<pb n="40" facs="tcp:30439:29"/>whereas weak or extravagant praiſes are a Libel in themſelves, and re<g ref="char:EOLhyphen"/>flect more upon the perſon they would ſeem to honour than the ſharpeſt Satyrs. It ſeems as if they never merited the one nor had ſenſe to underſtand the other. With what impudence could <hi>Virgil</hi> tell you, that after your Tranſlation among the Deities, it was uncertain what charge you would pleaſe to under<g ref="char:EOLhyphen"/>take, whether you would take on your ſelf the care of the Nether World once again, or elſe become a Watry God, by Eſpouſing one of the Daughters of <hi>Thetis,</hi> and receive for her Dowry the dominion of the Seas, becauſe of the Honour of your Alliance; or whether you ſhould be plac't in the Skies near to the crook<g ref="char:EOLhyphen"/>ed and double Conſtellation <hi>Scorpio,</hi> and for the honour of your neigh<g ref="char:EOLhyphen"/>bourhood be made of a more ſtreight and regular Figure.</p>
+               </sp>
+               <sp>
+                  <pb n="41" facs="tcp:30439:29"/>
+                  <speaker>Aug.</speaker>
+                  <p>You need not ſo much won<g ref="char:EOLhyphen"/>der at the Impudence of <hi>Virgil,</hi> for Praiſes are like Allegories, not al<g ref="char:EOLhyphen"/>ways taken in the literal meaning; and if there be any deficiency, the kindneſs of that perſon to whom they are addreſt helps out the Modeſty of the Panegyrick, but it often hap<g ref="char:EOLhyphen"/>pens Princes merit Honours which are never paid 'em.</p>
+               </sp>
+               <sp>
+                  <speaker>P. Aret.</speaker>
+                  <p>Then you reli'd upon the word of the Poet, and were in hopes to Eſpouſe one of the Sea<g ref="char:EOLhyphen"/>nymphs, or elſe to have your A<g ref="char:EOLhyphen"/>partment aſſign'd you in the Zo<g ref="char:EOLhyphen"/>diack.</p>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <p>No, no; there muſt be al<g ref="char:EOLhyphen"/>ways ſomething abated in Praiſes of this kind, but yet not all, and one may at leaſt receive this ſatiſ<g ref="char:EOLhyphen"/>faction from ſuch Extravagancies, to believe ones ſelf above all ordina<g ref="char:EOLhyphen"/>ry Praiſes, and 'tis Merit alone that made the Oratour ſurpaſs all the bounds of nature.</p>
+               </sp>
+               <sp>
+                  <pb n="42" facs="tcp:30439:30"/>
+                  <speaker>P. Aret.</speaker>
+                  <p>Well, though I ſhould allow their vanity to be guilty of all the Exceſs imaginable in the Ex<g ref="char:EOLhyphen"/>tolling of their Heroes; but to com<g ref="char:EOLhyphen"/>mend at different times for thoſe Actions which are directly oppoſite one to another, I think 'tis the height of Impudence; as for in<g ref="char:EOLhyphen"/>ſtance: If you prov'd bloudy and unmercifull to thoſe you Conquer'd, then there had been nothing ſo glo<g ref="char:EOLhyphen"/>rious, as to revenge your ſelf on thoſe who dar'd to oppoſe you: but if on the contrary, mildneſs appear<g ref="char:EOLhyphen"/>ed in your Nature, and you were ready to forgive e'm, then the ſcene is quite chang'd, and the mercy of a mild and gentle Prince ſhall far ſurpaſs the revenge of a bloudy and inhumane. So that one part of your Life muſt be commended at the ex<g ref="char:EOLhyphen"/>pence of the other, therefore chuſe you which you will for the Charac<g ref="char:EOLhyphen"/>ter of a Heroe, and I can bring you almoſt equal Arguments for either.</p>
+               </sp>
+               <sp>
+                  <pb n="43" facs="tcp:30439:30"/>
+                  <speaker>Aug.</speaker>
+                  <p>I think there's no need to take ſo near a view, 'tis enough to the Advantage of Princes that all their Actions are capable of Praiſes, and when they receive 'em for thoſe which are ſo oppoſite, 'tis a ſign they have more than one ſort of Merit.</p>
+               </sp>
+               <sp>
+                  <speaker>P. Aret.</speaker>
+                  <p>What? did you ne'er re<g ref="char:EOLhyphen"/>flect on thoſe Eulogies they heapt on you, and was there not need of ſome Art to refine 'em, to make you believe they were directed to you rather than to thoſe of your rank and quality? Princes are not diſtin<g ref="char:EOLhyphen"/>guiſht by the Praiſes that are given 'em, and not onely Heroes, but more ordinary perſons lay claim to 'em, but yet poſterity makes this difference by confirming thoſe that are given to ſome, and aboliſhing 'em to others.</p>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <p>Then you'll grant at leaſt that I receiv'd none but what I me<g ref="char:EOLhyphen"/>rited, ſince ſucceeding Ages as well
+<pb n="44" facs="tcp:30439:31"/>as that wherein I liv'd have confirm'd 'em. But yet I think I have reaſon to complain as being always lookt upon the moſt perfect Model for Princes, they are often therefore re<g ref="char:EOLhyphen"/>ſembled to me, and I am wrong'd by the Compariſon.</p>
+               </sp>
+               <sp>
+                  <speaker>P. Aret.</speaker>
+                  <p>Be comforted and let this be the occaſion of your Com<g ref="char:EOLhyphen"/>plaints no longer, for according to all the relations which the more mo<g ref="char:EOLhyphen"/>dern Dead have given us of <hi>Charles</hi> II. now Monarch of the Britiſh Iſles, his will be eſteem'd a more perfect Model; and ſo much I can foreſee, that Future Ages when they'll undertake to commend their Princes, will think they can do 'em no greater honour, than by comparing 'em to this wiſeſt and beſt of Kings.</p>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <p>Well then; don't you think that thoſe who are honour'd with the Compariſon won't hear it with pleaſure?</p>
+               </sp>
+               <sp>
+                  <pb n="45" facs="tcp:30439:31"/>
+                  <speaker>P. Aret.</speaker>
+                  <p>'Tis not improbable, for men are naturally ſo greedy of Prai<g ref="char:EOLhyphen"/>ſes, that they'll diſpenſe with Ju<g ref="char:EOLhyphen"/>ſtice, Truth and reaſon for to gain 'em.</p>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <p>It ſeems then you would quite exterminate all Praiſes, and if onely the good muſt have 'em, there would be but very few Pane<g ref="char:EOLhyphen"/>gyriſts.</p>
+               </sp>
+               <sp>
+                  <speaker>P. Aret.</speaker>
+                  <p>Yes, there would be ſome few without intereſt and de<g ref="char:EOLhyphen"/>ſign who would undertake it. And 'tis they who properly ought to doe it; ſo your <hi>Virgil</hi> handſomely com<g ref="char:EOLhyphen"/>mended <hi>Cato,</hi> when he call'd him Preſident at the Aſſembly of honeſt men, in the <hi>Elizian Fields,</hi> becauſe <hi>Cato</hi> himſelf was dead, and the Poet could pretend to no reward: But 'twas not ſo well done when he flat<g ref="char:EOLhyphen"/>ter'd you ſo much in the beginning of his <hi>Georgicks,</hi> when, if I am not miſtaken, he receiv'd a Penſion for it.</p>
+               </sp>
+               <sp>
+                  <pb n="46" facs="tcp:30439:32"/>
+                  <speaker>Aug.</speaker>
+                  <p>Then it ſeems all I gave on that ſcore was thrown away.</p>
+               </sp>
+               <sp>
+                  <speaker>P. Aret.</speaker>
+                  <p>'Tis no great matter; you had better done like one of your Succeſſours, who as ſoon as he was ſeated in the Empire, forbad all the Poets to make Verſes on him.</p>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <p>I muſt own he had more reaſon than I: True Praiſes are not thoſe are given us, but thoſe we merit.</p>
+               </sp>
+            </div>
+            <div n="2" type="dialogue">
+               <head>DIALOGUE II. <hi>Between</hi> Sappho <hi>and</hi> Laura.</head>
+               <sp>
+                  <speaker>Laura.</speaker>
+                  <p>'TIS true, we two have equally felt Love's paſſion, neither did we baniſh the Muſes to ſolace it: but yet with this difference; you were beſt pleas'd to compoſe Madrigals on your Lovers,
+<pb n="47" facs="tcp:30439:32"/>but I to have 'em preſented me by mine.</p>
+               </sp>
+               <sp>
+                  <speaker>Sappho.</speaker>
+                  <p>What then? that's to ſay, I lov'd as much as you could be be<g ref="char:EOLhyphen"/>lov'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Laura.</speaker>
+                  <p>That's no wonder, for I know Women are more ſuſceptible of that gentle paſſion than Men; but that which ſurpriz'd me moſt was, that inſtead of the Defendant you became the Aggreſſor, and by the charms of your Poems endea<g ref="char:EOLhyphen"/>vour'd to inſpire your Lovers with the ſame paſſion that you felt when you writ 'em.</p>
+               </sp>
+               <sp>
+                  <speaker>Sap.</speaker>
+                  <p>I was ſenſible of thoſe Fet<g ref="char:EOLhyphen"/>ters that humane policy and ill cu<g ref="char:EOLhyphen"/>ſtome had impos'd on our Sex, and was therefore reſolv'd to throw 'em off: for I always thought the Man's part, which is to make the Court<g ref="char:EOLhyphen"/>ſhip, was much more eaſie than ours to receive it.</p>
+               </sp>
+               <sp>
+                  <speaker>Laura.</speaker>
+                  <p>In my opinion we have no reaſon to complain againſt the
+<pb n="48" facs="tcp:30439:33"/>common cuſtome of making Love, and if there be any advantage it lies of our ſide; whene'er we are Cour<g ref="char:EOLhyphen"/>ted we can yield our ſelves Captives when we pleaſe; but they that at<g ref="char:EOLhyphen"/>taque us are not always Conque<g ref="char:EOLhyphen"/>rours when they would.</p>
+               </sp>
+               <sp>
+                  <speaker>Sap.</speaker>
+                  <p>You forget that men in their Courtſhips purſue their inclinations, but we to whom they're made don't always with the like ſatisfaction.</p>
+               </sp>
+               <sp>
+                  <speaker>Laura.</speaker>
+                  <p>Then you count thoſe ſweet attaques they make on us, and ſo often repeated for nothing, and how much they eſteem the conqueſt of one Heart.</p>
+               </sp>
+               <sp>
+                  <speaker>Sap.</speaker>
+                  <p>And do you account that nothing to reſiſt with pain the power of ſo many charms? they behold with pleaſure the ſucceſsfull progreſs which they make, whilſt we are an<g ref="char:EOLhyphen"/>gry with our ſelves and them too, that our reſiſtence has ſo much ſuc<g ref="char:EOLhyphen"/>ceſs.</p>
+               </sp>
+               <sp>
+                  <pb n="49" facs="tcp:30439:33"/>
+                  <speaker>Laura.</speaker>
+                  <p>Yet at laſt after all their Pains, and when we can defend our ſelves no longer, they'll yet ac<g ref="char:EOLhyphen"/>knowledge themſelves indebted to us for the Surrender.</p>
+               </sp>
+               <sp>
+                  <speaker>Sap.</speaker>
+                  <p>That hinders not, but what's their Victory, is our Defeat; they taſte no other Pleaſure in Love, than to Triumph in the yeilding of the belov'd, and they account them<g ref="char:EOLhyphen"/>ſelves no otherwiſe happy Lovers, but as they are Conquerours.</p>
+               </sp>
+               <sp>
+                  <speaker>Laura.</speaker>
+                  <p>What? would you intro<g ref="char:EOLhyphen"/>duce a Cuſtome, that Women ſhould Court the Men?</p>
+               </sp>
+               <sp>
+                  <speaker>Sap.</speaker>
+                  <p>What need is there of that Formality, That the Man muſt always be the Attacker, and the Women make a Coy Reſiſtance, when yet they Love each other as much as Heart can Wiſh?</p>
+               </sp>
+               <sp>
+                  <speaker>Laura.</speaker>
+                  <p>Oh! Matters would go too quick then, Love is ſo pleaſing a Traffick, &amp; yet ſo quickly dies in the purchaſe, that I think we do well in
+<pb facs="tcp:30439:34"/>what we can to prolong it. If we did receive it always when 'twas offered, what would become of all thoſe delightfull Pains, that Lovers take to pleaſe; thoſe little uneaſineſſes our Sex do feel when they Reproach themſelves for not having pleaſed enough, and all thoſe Intrancing Joys which Lovers find, &amp; in a Word, that agreeable mixture of Pains &amp; Pleaſure which do make up Love? 'twould Vaniſh e'er 'twas Born, and nothing would be more Inſpid than the divineſt Paſſion.</p>
+               </sp>
+               <sp>
+                  <speaker>Sap.</speaker>
+                  <p>Me-thinks there is a great Reſemblance between Love and War; where thoſe have the advan<g ref="char:EOLhyphen"/>tage, who make the Enemies Coun<g ref="char:EOLhyphen"/>trey the Seat of the War. You your ſelf confeſt, but now that our Sex was moſt ſuſceptible of that Paſſion, and ſhould therefore know how to manage the braver Part.</p>
+               </sp>
+               <sp>
+                  <speaker>Laura.</speaker>
+                  <p>Yes, but I Fear they would Defend themſelves too well,
+<pb facs="tcp:30439:34"/>and ſince ſome Reſiſtance, in the ma<g ref="char:EOLhyphen"/>nagement of this Paſſion, is ſo ne<g ref="char:EOLhyphen"/>ceſſary, &amp; onely ſo much to make the Victor relliſh the Conqueſt, with<g ref="char:EOLhyphen"/>out Defeating of the Paſſion; and one ought not to be ſo weak, as to yeild at firſt Summons, nor yet ſo ſtubborn as to hold out for ever, I think 'tis only our Province, and I queſtion whether Men would know ſo well how to manage it. One that has Wit, may reaſon on any other Subject, as well as that of Love; but 'twill be found that 'tis beſt for all things to remain in the ſame Order that they were, and your pretended Reformations do often Terminate in the greateſt Confuſion.</p>
+               </sp>
+            </div>
+            <div n="3" type="dialogue">
+               <pb facs="tcp:30439:35"/>
+               <head>DIALOGUE III. <hi>Between</hi> Socrates <hi>and</hi> Mon<g ref="char:EOLhyphen"/>taigne.</head>
+               <sp>
+                  <speaker>Mont.</speaker>
+                  <p>MOST Divine <hi>Socrates,</hi> I Rejoyce to ſee you, I have made it my Buſineſs, from the firſt moment of my Arrival hither, to find you out. I writ a Book which is almoſt every where fill'd with your Praiſes. I ſhould now deſire to have a more Intimate acquaintance with you, that I might Learn of your ſelf, how that Vertue became ſo Na<g ref="char:EOLhyphen"/>tural to you, and all it's Motions ſo eaſie, and yet in an Age, wherein you had no Example.</p>
+               </sp>
+               <sp>
+                  <speaker>Socrat.</speaker>
+                  <p>I am glad I have met with a Man in the nether World, who ſeems to be a Philoſopher, and ſince you are newly Arriv'd here from a<g ref="char:EOLhyphen"/>bove,
+<pb n="53" facs="tcp:30439:35"/>and 'tis ſo long ſince I have ſeen any Perſon here, for there are very few fond of my Converſation. I hope you won't take it ill, that I ask you ſome News; as how the upper World goes, and whether it be'nt much chang'd from what it was?</p>
+               </sp>
+               <sp>
+                  <speaker>Mont.</speaker>
+                  <p>Oh! Extremely, you would not be able to know it.</p>
+               </sp>
+               <sp>
+                  <speaker>Socrat.</speaker>
+                  <p>I am glad to hear it, for I always thought that 'twould be<g ref="char:EOLhyphen"/>come better and wiſer at length than 'twas in my time.</p>
+               </sp>
+               <sp>
+                  <speaker>Mont.</speaker>
+                  <p>No, you are miſtaken, 'tis more Fooliſh and Corrupted than ever it was, and on this occaſion 'twas, I ſo much deſired to ſee you, to know the Hiſtory of that Golden Age, wherein you Liv'd, when Ho<g ref="char:EOLhyphen"/>neſty and Juſtice ſeem'd to Reign.</p>
+               </sp>
+               <sp>
+                  <speaker>Socrat.</speaker>
+                  <p>And I on the contrary ex<g ref="char:EOLhyphen"/>pected to hear Miracles of the latter Ages. What? are not the Follie's of Antiquity yet amended?</p>
+               </sp>
+               <sp>
+                  <pb n="54" facs="tcp:30439:36"/>
+                  <speaker>Mont.</speaker>
+                  <p>I believe you onely ſlight Antiquity, becauſe you your ſelf were one of the Ancients; one can't enough bewail the Miſeries of the preſent Age, wherein every thing is degenerated, and grown worſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Socrat.</speaker>
+                  <p>Is it poſſible? Things in my time went ill enough, yet I ſtill believ'd that Mankind would take up at length, and grow wiſe by the Experience of many Years.</p>
+               </sp>
+               <sp>
+                  <speaker>Mont.</speaker>
+                  <p>But we are convinc'd by that of the contrary, for Men are like Birds who are caught in the ſame Snare, in which their Prede<g ref="char:EOLhyphen"/>ceſſors were before 'em; there's no Body comes into the World clean, &amp; unſpotted, but is as much an Heir to the Follies of his Father as his E<g ref="char:EOLhyphen"/>ſtate.</p>
+               </sp>
+               <sp>
+                  <speaker>Socrat.</speaker>
+                  <p>That's becauſe they don't attempt their own Freedom, for I ſhould think the World might grow wiſer as it is more advanc't in Years,
+<pb n="55" facs="tcp:30439:36"/>and more Moderate than in its Youth.</p>
+               </sp>
+               <sp>
+                  <speaker>Mont.</speaker>
+                  <p>Men of all Ages have Natural<g ref="char:EOLhyphen"/>ly the ſame Inclinations, over which Reaſon has no greater Power at one time, than at another; ſo that wherever there are Men, there are the ſame madneſs and follies.</p>
+               </sp>
+               <sp>
+                  <speaker>Socrat.</speaker>
+                  <p>And granting this, what reaſon had you to conclude that paſt Ages were wiſer than the preſent?</p>
+               </sp>
+               <sp>
+                  <speaker>Mont.</speaker>
+                  <p>Oh <hi>Socrates!</hi> you had a more particular, and refin'd way of reaſoning, than the reſt of Mankind, and knew by the Juſtneſs and weight of your Arguments, how to lead Men in that Path that you had Chalk't out for 'em; 'twas from thence you gain'd the Title of Suc<g ref="char:EOLhyphen"/>cesfull Mid-Wife of your Thoughts, becauſe you never ſuffered any to miſcarry: for my part, I muſt con<g ref="char:EOLhyphen"/>feſs to you, I never could effect any thing, but what was contrary to my firſt deſign, yet I know not how
+<pb n="56" facs="tcp:30439:37"/>to grant you this, for now there are none of thoſe Vigorous and No<g ref="char:EOLhyphen"/>ble Souls which they had in for<g ref="char:EOLhyphen"/>mer times, as that of <hi>Ariſtides, Pho<g ref="char:EOLhyphen"/>cion, Pericles</hi> and <hi>Socrates.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Socrat.</speaker>
+                  <p>What ſhould be the rea<g ref="char:EOLhyphen"/>ſon on't? is Natures Fountain quite run dry, that it can produce no more ſuch Men? why ſhould it be productive of all things elſe, and yet ſo barren of reaſonable Men? can you Inſtance me in any of the Works of Nature which are dege<g ref="char:EOLhyphen"/>nerated? and therefore why ſhould Man?</p>
+               </sp>
+               <sp>
+                  <speaker>Mont.</speaker>
+                  <p>I know not, but we have been convinc'd by wofull Experi<g ref="char:EOLhyphen"/>ence it is ſo; it ſeems that Nature onely gave us Images of ſome few Men, to let us know her Power, and what ſhe cou'd do, if ſhe pleas'd, but I'm ſure, ſhe was negligent e<g ref="char:EOLhyphen"/>nough in the reſt of her Compo<g ref="char:EOLhyphen"/>ſures.</p>
+               </sp>
+               <sp>
+                  <speaker>Socrat.</speaker>
+                  <p>Always obſerve, Antiqui<g ref="char:EOLhyphen"/>ty
+<pb n="57" facs="tcp:30439:37"/>is ſingular in this, that whereas all other diſtances do diminiſh the Object, yet that of time makes it ſeem much bigger; had you known <hi>Ariſtides, Phocion, Pericles,</hi> and my ſelf, (ſince you are pleas'd to Rank me with 'em,) you would have found that in your own Age, there would have been ſome that might reſemble us: Antiquity is ſo much advanc'd becauſe Men are Prejudic'd againſt the preſent Age, and therefore they wou'd ſay any thing to diſcredit it, and ſo are very well pleas'd to exalt their Anceſtors, ſo they may depreſs their Contem<g ref="char:EOLhyphen"/>poraries. When we Liv'd, we alſo eſteem'd our Anceſtors much more than they deſerv'd, and our Poſte<g ref="char:EOLhyphen"/>rity deals juſt ſo with us. But I believe if our Anceſtors, we and our Poſterity, could be beheld at the ſame time, by an Indifferent Eye, the proſpect would be found to be very much the ſame.</p>
+               </sp>
+               <sp>
+                  <pb n="58" facs="tcp:30439:38"/>
+                  <speaker>Mont.</speaker>
+                  <p>I always thought that e<g ref="char:EOLhyphen"/>very thing was in Motion, and that every Age had produc't different Humours, and Characters of men. Have there not been ſome wiſe, and other ignorant Ages? ſome that have been heavy, and others more refin'd? ſome more ſerious, and others more trifling, and Fan<g ref="char:EOLhyphen"/>taſtical?</p>
+               </sp>
+               <sp>
+                  <speaker>Socrat.</speaker>
+                  <p>'Tis true, there have.</p>
+               </sp>
+               <sp>
+                  <speaker>Mont.</speaker>
+                  <p>And wherefore by the ſame reaſon, may not ſome Ages have been more Vertuous, and o<g ref="char:EOLhyphen"/>thers more Vicious?</p>
+               </sp>
+               <sp>
+                  <speaker>Socrat.</speaker>
+                  <p>The conſequence does not follow, for though the Habit change the Figure, the Body ſtill conti<g ref="char:EOLhyphen"/>nues as it was. Wit, Bravery, Knowledge, Ignorance, the ſerious, or the Trifling Humour are not eſſen<g ref="char:EOLhyphen"/>tial to the Man, but may be put off or on, like Clothes. But the Heart of Man that never changes, and 'tis that which diſtinguiſhes him. This
+<pb n="59" facs="tcp:30439:38"/>is an Age of <hi>Ignoramus,</hi> but it may be the Mode of the next to be more learn'd. This is an Intereſt Age, yet I believe the contrary will ne'er ſucceed; perhaps in the vaſt Num<g ref="char:EOLhyphen"/>ber of Men, that may be born in the ſpace of an Hundred Years, Na<g ref="char:EOLhyphen"/>ture may produce Twenty or Thir<g ref="char:EOLhyphen"/>ty of Wit and Senſe, who are equal<g ref="char:EOLhyphen"/>ly diſperſt all the World over, yet there's no where ſo many of 'em to be found as to make their Vertue and Honeſty become the Mode.</p>
+               </sp>
+               <sp>
+                  <speaker>Mont.</speaker>
+                  <p>Is Nature always then the ſame? and makes the ſame Diſtri<g ref="char:EOLhyphen"/>bution of 'em in every Age? why may not one be bleſt with many more than others?</p>
+               </sp>
+               <sp>
+                  <speaker>Socrat.</speaker>
+                  <p>Becauſe Nature always Acts by Rule, though we are Igno<g ref="char:EOLhyphen"/>rant of its Motions.</p>
+               </sp>
+            </div>
+            <div n="4" type="dialogue">
+               <pb facs="tcp:30439:39"/>
+               <head>DIALOGUE IV. <hi>Between the</hi> Emperour A<g ref="char:EOLhyphen"/>drian, <hi>and</hi> Margaret <hi>of</hi> Auſtria.</head>
+               <sp>
+                  <speaker>M. Auſtr.</speaker>
+                  <p>WHAT ails you, you are in ſuch a heat?</p>
+               </sp>
+               <sp>
+                  <speaker>Adrian.</speaker>
+                  <p>I have had a conteſt but e'en now with <hi>Cato</hi> of <hi>
+                        <g ref="char:V">Ʋ</g>tica</hi> about the manner of our Deaths, and I endeavour'd to ſhew that in the laſt Scene of my Life, I approv'd my ſelf more a Philoſopher than he.</p>
+               </sp>
+               <sp>
+                  <speaker>M. Auſtr.</speaker>
+                  <p>Me-thinks you were a little Confident though, to compare your Death with his; What could be more Glorious, than firſt, to put his Family in order at <hi>
+                        <g ref="char:V">Ʋ</g>tica,</hi> to pro<g ref="char:EOLhyphen"/>vide for the ſafety of his Friends, and then to kill himſelf as deſirous
+<pb n="61" facs="tcp:30439:39"/>to die rather with the Liberty of his Country, than to fall into the hands of the Conquerour?</p>
+               </sp>
+               <sp>
+                  <speaker>Adrian.</speaker>
+                  <p>If you take but a nearer view on't, you may obſerve there were many things amiſs. Firſt of all, he was ſo vain-glorious in his Preparation, that there was ſcarce any Body in all <hi>
+                        <g ref="char:V">Ʋ</g>tica</hi> but knew his deſign. Secondly, he was forc't to reade over ſome Dialogues of <hi>Plato,</hi> about the Immortality of the Soul, before he had courage enough to put it in Execution. And laſtly, the thoughts on't had put him ſo out of Humour, that looking for his Sword under his Beds-head, where he had deſignedly laid it, (which was taken thence by one of his Servants, who fear'd leſt deſpair might make him attempt ſomething on himſelf,) but not finding it there, he calls for him in Rage, and gave him with his Fiſt ſo ſevere a Blow on the Mouth, as beat out ſeveral
+<pb n="62" facs="tcp:30439:40"/>of his Teeth, and wounded his own Hand.</p>
+               </sp>
+               <sp>
+                  <speaker>M. Auſtr.</speaker>
+                  <p>I can't deny but 'twas a very barbarous ſtroke, and was a little ſcandalous to his philoſophical death.</p>
+               </sp>
+               <sp>
+                  <speaker>Adrian.</speaker>
+                  <p>You can't imagine what a noiſe he made about his Sword, how he reproach't his Son and his Domeſticks, as if they deſign'd to bind him Hand and Foot, and deli<g ref="char:EOLhyphen"/>ver him to <hi>Caeſar,</hi> and ſtorm'd at 'em at that rate, as made 'em all quit his Chamber, to kill himſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>M. Auſtr.</speaker>
+                  <p>What need was there of making all that noiſe about it? had he waited but one day longer he might have done it calmly and qui<g ref="char:EOLhyphen"/>etly, for there is nothing eaſier than to die when one has a mind to it, but all thoſe meaſures he had taken were founded upon his reſolution of doing it that day, and had he de<g ref="char:EOLhyphen"/>ferr'd it but one day longer, he might have fail'd of putting his deſign in execution.</p>
+               </sp>
+               <sp>
+                  <pb n="63" facs="tcp:30439:40"/>
+                  <speaker>Adrian.</speaker>
+                  <p>You ſpeak very rational<g ref="char:EOLhyphen"/>ly, and I ſee you are capable of judging what deaths are moſt Glori<g ref="char:EOLhyphen"/>ous.</p>
+               </sp>
+               <sp>
+                  <speaker>M. Auſtr.</speaker>
+                  <p>Yet 'tis reported that when <hi>Cato</hi> had his Sword again, and every body left him, he fell a<g ref="char:EOLhyphen"/>ſleep and ſnor'd; methinks this was very pleaſant.</p>
+               </sp>
+               <sp>
+                  <speaker>Adrian.</speaker>
+                  <p>What Story is this? but juſt before he made a noiſe as if he were undone, then beat his Ser<g ref="char:EOLhyphen"/>vant, and yet in this heat to fall a<g ref="char:EOLhyphen"/>ſleep is ſomething ſtrange; beſides, his Wound troubled him ſo much, as not to ſuffer him to take any reſt, for he himſelf but juſt before profeſt he could ſcarce ſupport the pain of it, and made his Phyſician dreſs it a little before he kill'd himſelf; yet at laſt when his Sword was brought him, at Midnight he read <hi>Plato</hi>'s Dialogues twice o'er, and I can't think he had the courage to ſleep af<g ref="char:EOLhyphen"/>ter that, and his ſnoring was no
+<pb n="64" facs="tcp:30439:41"/>more than diſſimulation, that his Servants who were liſtning at the Door might report it to his advan<g ref="char:EOLhyphen"/>tage.</p>
+               </sp>
+               <sp>
+                  <speaker>M. Auſtr.</speaker>
+                  <p>You do ill to be ſo ſe<g ref="char:EOLhyphen"/>vere a Critick on his death, which ſtill had ſomething in't that was glo<g ref="char:EOLhyphen"/>rious; but how could you pretend to prefer yours to his, for, if I mi<g ref="char:EOLhyphen"/>ſtake not, you dy'd quietly in your Bed, and there was nothing in't that was remarkable?</p>
+               </sp>
+               <sp>
+                  <speaker>Adrian.</speaker>
+                  <p>What! was not that re<g ref="char:EOLhyphen"/>markable to make theſe Verſes juſt as I was breathing out my laſt?
+<q>
+                        <l>Adieu my little Soul, my dear'ſt delight,</l>
+                        <l>To what far Country doſt thou take thy flight?</l>
+                        <l>Trembling and naked thou'lt alone be left,</l>
+                        <l>And of thy Body's clothing quite bereft.</l>
+                        <l>What will become of all thy Jollity,</l>
+                        <l>When thou art gone, I know not where, from me?</l>
+                     </q>
+                     <pb n="65" facs="tcp:30439:41"/>
+                     <hi>Cato</hi> in my mind treated Death too ſeriouſly, but I made it my diverſion, and 'tis on this account that I do pre<g ref="char:EOLhyphen"/>tend mine to have ſurpaſt his. 'Tis much eaſier to Brave one's fate than 'tis to Rally at it; and to entertain it kindly when it comes to our relief, than when we have no occaſion for it.</p>
+               </sp>
+               <sp>
+                  <speaker>M. Auſtr.</speaker>
+                  <p>I'll allow you dy'd more decently than <hi>Cato,</hi> yet 'twas my misfortune never to hear of thoſe Verſes which were the ornament on't.</p>
+               </sp>
+               <sp>
+                  <speaker>Adrian.</speaker>
+                  <p>See how the world's im<g ref="char:EOLhyphen"/>pos'd on, becauſe <hi>Cato</hi> tore out his own Entrails rather than fall into the hands of his Enemies, yet ſuch an action ſhines ſo in Story, that e<g ref="char:EOLhyphen"/>very body that beholds it is dazel'd with its luſtre: but let a man die calmly, and in ſuch good humour to droll on death it ſelf, yet our dull Hiſtorians ne'er regard it.</p>
+               </sp>
+               <sp>
+                  <pb n="66" facs="tcp:30439:42"/>
+                  <speaker>M. Auſtr.</speaker>
+                  <p>Alas! there can be no<g ref="char:EOLhyphen"/>thing truer than what you ſay; for I my ſelf when I thought I ſhould have dy'd, took my farewell of the World more handſomely than you, and yet't has made but little noiſe in it.</p>
+               </sp>
+               <sp>
+                  <speaker>Adrian.</speaker>
+                  <p>How! what ſay you?</p>
+               </sp>
+               <sp>
+                  <speaker>M. Auſtr.</speaker>
+                  <p>I was Daughter to an Emperour, and betroth'd to a King's Son, who after the death of his Fa<g ref="char:EOLhyphen"/>ther ſent me back again with diſ<g ref="char:EOLhyphen"/>grace to my Friends without ever conſummating the Marriage, and not long after I was contracted to ano<g ref="char:EOLhyphen"/>ther King's Son, and on my Voyage to his Country there aroſe ſo dread<g ref="char:EOLhyphen"/>full a Storm that I was in apparent danger of my life, yet I was calm enough to write my own Epitaph, which was this.
+<q>
+                        <l>Margr'et that Royal Damſel here is laid,</l>
+                        <l>Who twice was Marry'd and yet dy'd a Maid.</l>
+                     </q>
+                     <pb n="67" facs="tcp:30439:42"/>I muſt confeſs I dy'd not then, yet what's the ſame, I thought I ſhou'd. <hi>Cato</hi>'s firmneſs was extravagant in its kind, and ſo was your Jollity in another, but mine was the onely na<g ref="char:EOLhyphen"/>tural and eaſie; he was too ſerious, you to vain, and I the onely rational perſon.</p>
+               </sp>
+               <sp>
+                  <speaker>Adrian.</speaker>
+                  <p>What! do you reproach me then, that I had too little concern for death?</p>
+               </sp>
+               <sp>
+                  <speaker>M. Auſtr.</speaker>
+                  <p>Yes, you ſeem'd as if you ſlighted its approaches, yet I doubt you took as much pains to diſſemble your reſentments, as <hi>Cato</hi> did to rip up his Bowels. I expect<g ref="char:EOLhyphen"/>ed without fear to be ſhipwrack't e<g ref="char:EOLhyphen"/>very moment, and yet in cold blood I made my own Epitaph. If there had not been ſomething natural in my ſtory the world might have made ſome difficulty in believ<g ref="char:EOLhyphen"/>ing it, or at leaſt that I did it out of extravagancy or fear; but at the ſame time I was a poor Maid,
+<pb n="68" facs="tcp:30439:43"/>and though twice contracted, was like to be ſo unfortunate as to die one: and you may obſerve that I regretted the ſeverity of my Fate, and 'tis that which makes my ſtory appear ſo natural, and from whence it borrows all its luſtre: your Ver<g ref="char:EOLhyphen"/>ſes, if you obſerve, ſpeak nothing but what ſeems ſtrain'd and affected, whereas mine eaſily repreſent my fortune without art or diſſimula<g ref="char:EOLhyphen"/>tion.</p>
+               </sp>
+               <sp>
+                  <speaker>Adrian.</speaker>
+                  <p>On my word, I ne'er could have believ'd, that the trouble of dying with your Virginity on your hands, would have prov'd ſo glorious.</p>
+               </sp>
+               <sp>
+                  <speaker>M. Auſtr.</speaker>
+                  <p>You may make your ſelf as merry with me as you pleaſe, yet my death, if it may be ſo call'd, hath this advantage over yours and <hi>Cato</hi>'s, that as you liv'd with the re<g ref="char:EOLhyphen"/>putation of Philoſophers, ſo in ho<g ref="char:EOLhyphen"/>nour you were oblig'd to die, and if you had but dar'd to fear it, the
+<pb facs="tcp:30439:43"/>world might have been very ſevere on you on that occaſion; but for my part I might have trembled at the apprehenſion of drowning, and made my cries reach the Heavens, and no body e'er eſteem me the leſs for it, yet I was compos'd enough to write my own Elegy.</p>
+               </sp>
+               <sp>
+                  <speaker>Adrian.</speaker>
+                  <p>Between you and I, was it not made on Land?</p>
+               </sp>
+               <sp>
+                  <speaker>M. Auſtr.</speaker>
+                  <p>That trifling evaſion of yours is a little uncivil. I made no difficulty of believing you.</p>
+               </sp>
+               <sp>
+                  <speaker>Adrian.</speaker>
+                  <p>I own my ſelf ſubdu'd by your reaſons, and ſhall hencefor<g ref="char:EOLhyphen"/>ward be of your opinion, That that vertue is greateſt and moſt commen<g ref="char:EOLhyphen"/>dable which ſurpaſſes not the bounds of nature.</p>
+               </sp>
+            </div>
+            <div n="5" type="dialogue">
+               <pb facs="tcp:30439:44"/>
+               <head>DIALOGUE V. <hi>Between</hi> Eraſiſtratus, <hi>and</hi> Har<g ref="char:EOLhyphen"/>vey.</head>
+               <sp>
+                  <speaker>Era.</speaker>
+                  <p>YOU tell me wonders: What? that the Bloud Circulates in the Body? that the Veins carry it to the Heart, and the Arteries receive it from thence, to convey it to the exteriour Parts?</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>I have demonſtrated it by ſo many Experiments, that now there is no one doubts it.</p>
+               </sp>
+               <sp>
+                  <speaker>Era.</speaker>
+                  <p>Then we Ancient Phyſicians were very much deceiv'd, when we attributed to the Bloud onely, a ſlow and gentle Motion, from the Heart to the Extremity of the Parts. The World has reaſon to be much oblig'd to you, for aboliſhing this old miſtake.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:30439:44"/>
+                  <speaker>Har.</speaker>
+                  <p>I am ſatisfy'd it has, and not onely for that, but by putting 'em into a Method, of making all thoſe modern diſcoveries in Anato<g ref="char:EOLhyphen"/>my, which ſo much Illuſtrate the Art of Phyſick; the Motion of the Bloud was no ſooner diſcover'd, but immediately there were new Cana<g ref="char:EOLhyphen"/>les, new-Pipes, and new Repoſito<g ref="char:EOLhyphen"/>ries found out for it. It ſeem'd as if the whole Frame and Machine of Man's Body were taken in Peices and caſt over a-new. What Advan<g ref="char:EOLhyphen"/>tage the modern Phyſicians have o<g ref="char:EOLhyphen"/>ver you, who pretended to cure the Diſeaſes of that Body ye had ſo lit<g ref="char:EOLhyphen"/>tle knowledge of?</p>
+               </sp>
+               <sp>
+                  <speaker>Era.</speaker>
+                  <p>I grant you, that the Mo<g ref="char:EOLhyphen"/>derns are ſomething better Natura<g ref="char:EOLhyphen"/>liſts than we, but yet I do deny that they are better Phyſicians. I ſhould deſire very much to ſee how you or any of 'em, would have manag'd ſuch a Patient as <hi>Antiochus</hi> in his Quartane Ague. You muſt needs
+<pb facs="tcp:30439:45"/>have heard of my Succeſs in that Caſe, and how I diſcover'd by the brisker Motion of his Pulſe in the preſence of <hi>Stratonice,</hi> that he was enamour'd of that Beautifull Queen, and that his Diſeaſe proceeded from that Violence he did himſelf in Endeavouring to conceal his Paſſion: yet I perform'd that difficult Cure without the knowledge of the Cir<g ref="char:EOLhyphen"/>culation of the Bloud, whereas had you been in my Place, you would have found your ſelf extremely puzl'd with all your Inventions, your new Pipes and Canales would have ſerv'd you then but to little purpoſe; the Diſeaſe was in the Heart, and therefore 'twas of more Importance to know that.</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>That's not always neceſſary to be known, neither are all thoſe that are ſick Inamour'd of their Mo<g ref="char:EOLhyphen"/>ther-in-Laws, as was <hi>Antiochus.</hi> I doubt not but for lack of this knowledge of the Circulation of
+<pb n="73" facs="tcp:30439:45"/>the Bloud you let many of your Patients die on your Hands.</p>
+               </sp>
+               <sp>
+                  <speaker>Era.</speaker>
+                  <p>Then you believe your new Diſcoveries are of great uſe and be<g ref="char:EOLhyphen"/>nifit to the World?</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Without doubt they are.</p>
+               </sp>
+               <sp>
+                  <speaker>Era.</speaker>
+                  <p>Then pray Anſwer me one queſtion, what's the reaſon the Dead come crowding hither as thick as e'er they did?</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Oh! if they dye now, 'tis commonly the Fault of the Patient; not of the Phyſicians.</p>
+               </sp>
+               <sp>
+                  <speaker>Era.</speaker>
+                  <p>Therefore your modern diſcoveries do conduce very little to the Cure.</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Perhaps they han't leaſure to make thoſe advantages of our diſcoveries as they might, but 'tis probable in a little time we may ſee more ſurprizing Effects.</p>
+               </sp>
+               <sp>
+                  <speaker>Era.</speaker>
+                  <p>On my word, all things re<g ref="char:EOLhyphen"/>main in the ſame Station where they were, there's a certain meaſure of neceſſary knowledge which Men do
+<pb n="74" facs="tcp:30439:46"/>eaſily attain to, and they are ſo far oblig'd to Nature for inſpiring 'em with that which is ſo much to their advantage. Men were very unhap<g ref="char:EOLhyphen"/>py, if they were always beholding to the ſlow and often unſuccesfull Motions of their reaſon, for all they know, and thoſe things that are not of the like neceſſity, are diſcovered by degrees and long purſuit of many Years.</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Why may not a skilfull A<g ref="char:EOLhyphen"/>natomiſt make the ſame advantage of the perfect knowledge of the Machine of a Man's body, as an Ar<g ref="char:EOLhyphen"/>tiſt doth of a Clock or Watch, and by the in-ſight that he has of its ſprings and wheels beſt know how to regulate its Motions when they are diſorder'd? but if it be of ſo little uſe, as you would have it, men ſtrive in vain, to advance that Science, and 'twere much better if 'twere let alone.</p>
+               </sp>
+               <sp>
+                  <speaker>Era.</speaker>
+                  <p>Oh no! then there would
+<pb n="75" facs="tcp:30439:46"/>be much diverting knowledge loſt; but for any uſe there's in't, I think to diſcover ſome new conduit in the body, or ſome new Star in the Hea<g ref="char:EOLhyphen"/>vens is much the ſame. We cannot break great Nature's rule who has Ordain'd, that men muſt mutually ſucceed one another, which can be done by no other way but Death. Mankind may make defences, and ſeem to combate with diſeaſes, till they come to the brink of Fate, but neither the neweſt diſcoveries in Anatomy, nor a ſearch into the Cloſeſt receſſes of the Body, can e<g ref="char:EOLhyphen"/>ver make Mankind paſs over that, Nature will ſtill be Conquerour and Death will put an end to all their Pretenſions.</p>
+               </sp>
+            </div>
+            <div n="6" type="dialogue">
+               <pb n="76" facs="tcp:30439:47"/>
+               <head>DIALOGUE VI. <hi>Between</hi> Berenice. Coſme. II. de Medicis.</head>
+               <sp>
+                  <speaker>C. de med.</speaker>
+                  <p>I am told by the modern Wits lately come hi<g ref="char:EOLhyphen"/>ther, ſome news, which troubles me; you know <hi>Galilaeus,</hi> who was my Mathematician, had diſcover'd certain Planets which move about <hi>Jupiter,</hi> and in honour to me call'd 'em <hi>de Medicis,</hi> that they are now known no more by that Name, but call'd the <hi>Satellites,</hi> it muſt needs be that the World is grown ill natur'd to rob me of that honour which is my due.</p>
+               </sp>
+               <sp>
+                  <speaker>Beren.</speaker>
+                  <p>I never knew a more re<g ref="char:EOLhyphen"/>markable inſtance of its Malice.</p>
+               </sp>
+               <sp>
+                  <speaker>C. de med.</speaker>
+                  <p>You may ſpeak with<g ref="char:EOLhyphen"/>out
+<pb n="77" facs="tcp:30439:47"/>concern, nor have you the ſame reaſon to complain as I, you made a vow to cut off your hair, if your Husband <hi>Ptolomy</hi> return'd Victor, from I know not what Wars, which he afterwards did, and you to perform your vow, made an offering of your hair in the Temple of <hi>Venus;</hi> but the next Day a cer<g ref="char:EOLhyphen"/>tain <hi>Mathematician</hi> ſtole it thence, and Publiſh't that 'twas taken up to Heaven, and plac't amongſt the Stars, and to this Day one of the Conſtellations goes by the Name of <hi>Berenice</hi>'s hair they might as well call the Stars after a Prince's name, as a Woman's Locks; yet you are re<g ref="char:EOLhyphen"/>membred in the Skies; and I am forgotten.</p>
+               </sp>
+               <sp>
+                  <speaker>Beren.</speaker>
+                  <p>Were it in my Power to preſent you with my Heavenly Locks, I ſhould be very willing to part with 'em, for your ſatisfaction, and yet have no reaſon to upbraid
+<pb n="78" facs="tcp:30439:48"/>you with the greatneſs of the Obli<g ref="char:EOLhyphen"/>gation.</p>
+               </sp>
+               <sp>
+                  <speaker>C. de med,</speaker>
+                  <p>I ſhould eſteem it very conſiderable to be aſſur'd, my name ſhould live as well as yours.</p>
+               </sp>
+               <sp>
+                  <speaker>Beren.</speaker>
+                  <p>Alas! if all the Conſtel<g ref="char:EOLhyphen"/>lations were call'd by my name, what ſhould I be the better? they are plac't above in the Heavens, whilſt I am here below. Men know not how to Rob Death of's due, and yet they wou'd make two or three Syl<g ref="char:EOLhyphen"/>lables ſurvive; this is a very plea<g ref="char:EOLhyphen"/>ſant evaſion, were it not as well that they and their names dy'd toge<g ref="char:EOLhyphen"/>ther?</p>
+               </sp>
+               <sp>
+                  <speaker>C. de med.</speaker>
+                  <p>I am not of your mind, we naturally deſire to die but as lit<g ref="char:EOLhyphen"/>tle as may be, and after Death it ſelf, we endeavour to preſerve our lives on ſome Marble-ſtone or Monu<g ref="char:EOLhyphen"/>ment.</p>
+               </sp>
+               <sp>
+                  <speaker>Beren.</speaker>
+                  <p>Why? thoſe very things which ſeem to give us Immortality, do alſo at length die themſelves. On
+<pb n="79" facs="tcp:30439:48"/>what 'Object would you fix your name? neither City, Town, nor Empire could anſwer your deſire.</p>
+               </sp>
+               <sp>
+                  <speaker>C. de med.</speaker>
+                  <p>'Twas well contriv'd then to give it to the Stars, for they always laſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Beren.</speaker>
+                  <p>Nor there could you be ſecure, the Stars themſelves being Subject to the ſame Fate of changes and revolutions, and if we can be<g ref="char:EOLhyphen"/>lieve Aſtronomers, new ones riſe, and the old do diſappear, and it may come to paſs at length that my Locks may alſo vaniſh; or if we knew how to fix it on ſomething that was more permanent, our names as well as that whereon it was ſet, might ſuffer a Grammatical Death by the change of words and letters, e<g ref="char:EOLhyphen"/>nough to puzzle the greateſt antiqua<g ref="char:EOLhyphen"/>ries to find 'em out. Sometime ſince there were two of the Dead who diſputed one with another with ſome heat, and I obſerving on't deſir'd to know who they were;
+<pb n="80" facs="tcp:30439:49"/>and what was the grounds of their Controverſie, and I was told that one was <hi>Conſtantine</hi> the Great, and the other was an Heathen Emperour, and that their paſt greatneſs was the Subject of their quarel. <hi>Conſtan<g ref="char:EOLhyphen"/>tine</hi> ſaid he had been Emperour of <hi>Conſtantinople,</hi> and to give it the Preference, ſaid it was ſituated upon <hi>three Seas,</hi> the <hi>Euxine,</hi> the <hi>Thracian Boſphorus,</hi> and the <hi>Propontis;</hi> The Heathen Emperour ſaid he was ſo of <hi>Stambould,</hi> which has as advantage<g ref="char:EOLhyphen"/>ous a ſituation, on the black Sea, the Strait, and the Marmorean. <hi>Con<g ref="char:EOLhyphen"/>ſtantine</hi> was ſurpriz'd at the reſem<g ref="char:EOLhyphen"/>blance between <hi>Conſtantinople</hi> and <hi>Stambould,</hi> but after he had exactly inform'd himſelf of the ſituation of the place, he was much more ſo, when he found it was the very ſame, which he knew not becauſe of the alteration of the name, and cry'd out, Alas! I might as well have left it it's ancient name of <hi>Bizantium,</hi>
+                     <pb n="81" facs="tcp:30439:49"/>for who can find the name of <hi>Con<g ref="char:EOLhyphen"/>ſtantine</hi> in <hi>Stambould,</hi> I doubt 'tis therefore drawing near it's utmoſt Period.</p>
+               </sp>
+               <sp>
+                  <speaker>C. de med.</speaker>
+                  <p>I am ſomewhat ſatis<g ref="char:EOLhyphen"/>fi'd, and reſolve hence forward to be more patient, and ſince we can<g ref="char:EOLhyphen"/>not free our ſelves from death, not to be concern'd about our names which is of ſo much leſs Conſe<g ref="char:EOLhyphen"/>quence.</p>
+               </sp>
+            </div>
+         </div>
+         <div type="dialogues">
+            <pb n="82" facs="tcp:30439:50"/>
+            <head>Modern Dialogues.</head>
+            <div n="1" type="dialogue">
+               <head>DIALOGUE I. <hi>Between</hi> Anne <hi>of</hi> Britain <hi>and</hi> Mary <hi>of</hi> England.</head>
+               <sp>
+                  <speaker>Anne of B.</speaker>
+                  <p>CErtainly you were very well pleas'd with my death, for I was no ſooner dead, but you croſt the Seas to Eſ<g ref="char:EOLhyphen"/>pouſe <hi>Lewis</hi> the Twelfth my Huſ<g ref="char:EOLhyphen"/>band, to ſeat your ſelf in that Throne which I had but juſt forſa<g ref="char:EOLhyphen"/>ken, but yet you enjoy'd it not long; and your youth and beauty, which ſo much charm'd the King,
+<pb n="83" facs="tcp:30439:50"/>haſten'd his death and your depar<g ref="char:EOLhyphen"/>ture.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary of E.</speaker>
+                  <p>'Tis true, my Royal<g ref="char:EOLhyphen"/>ty did no ſooner appear but it va<g ref="char:EOLhyphen"/>niſht.</p>
+               </sp>
+               <sp>
+                  <speaker>Anne of B.</speaker>
+                  <p>Yet after that you be<g ref="char:EOLhyphen"/>came Ducheſs of <hi>Suffolk,</hi> that was a great fall from Queen of <hi>France:</hi> thanks to Heaven for my better Fate. When <hi>Charles</hi> the Eighth, my former Husband, dy'd, I preſerv'd my Qua<g ref="char:EOLhyphen"/>lity by eſpouſing his Succeſſor, which was a ſingular inſtance of my good Fortune.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary of E.</speaker>
+                  <p>Believe me, I never envy'd it.</p>
+               </sp>
+               <sp>
+                  <speaker>Anne of B.</speaker>
+                  <p>No? I conceive well what 'tis to be Ducheſs of <hi>Suffolk</hi> af<g ref="char:EOLhyphen"/>ter being Queen of <hi>France.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mary of E.</speaker>
+                  <p>But I lov'd the Duke of <hi>Suffolk.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Anne of B.</speaker>
+                  <p>That's no matter: when one has reliſht once the ſweet<g ref="char:EOLhyphen"/>neſs of a Throne, all other pleaſures become inſipid.</p>
+               </sp>
+               <sp>
+                  <pb n="84" facs="tcp:30439:51"/>
+                  <speaker>Mary of E.</speaker>
+                  <p>I grant it: excepting thoſe of Love, you have no reaſon to be angry with me for ſucceeding in your Title, ſince had it been in my power, I would have aſſum'd no other than that of Ducheſs, which I ſo quickly did when I was diſ<g ref="char:EOLhyphen"/>charg'd from being Queen of <hi>France.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>An. of B.</speaker>
+                  <p>Could you have thoughts ſo mean?</p>
+               </sp>
+               <sp>
+                  <speaker>Mary of E.</speaker>
+                  <p>The uneaſineſſes of Ambition could never ſuit my tem<g ref="char:EOLhyphen"/>per; Love is Nature's gift, and like all its other Bounties is calm and quiet, and eaſie to attain to; but Ambition, like its Parent the Fancy, is reſtleſs and unquiet, and never poſſeſſes it ſelf of any thing but with pain and difficulty.</p>
+               </sp>
+               <sp>
+                  <speaker>Anne of B.</speaker>
+                  <p>What? has not Na<g ref="char:EOLhyphen"/>ture inſpir'd Mankind with Ambiti<g ref="char:EOLhyphen"/>on as well as Love?</p>
+               </sp>
+               <sp>
+                  <speaker>Mary of E.</speaker>
+                  <p>We muſt needs own Ambition to be the product of the Imagination, whoſe ſtamp and cha<g ref="char:EOLhyphen"/>racter
+<pb n="85" facs="tcp:30439:51"/>it bears; for like that 'tis ſtormy and unquiet, full of fanta<g ref="char:EOLhyphen"/>ſtick projects, and ſets up bounds to it ſelf it never reaches.</p>
+               </sp>
+               <sp>
+                  <speaker>Anne of B.</speaker>
+                  <p>But unhappy Love ar<g ref="char:EOLhyphen"/>rives at it too ſoon.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary of E.</speaker>
+                  <p>The joys of Love do often make us happy, and frequent<g ref="char:EOLhyphen"/>ly we taſte its pleaſures, whereas that of Ambition affords but little ſatisfaction to its greateſt Votaries; and though we might ſuppoſe that they often reap freſh delights, which were ſtill like their Laurel green and flouriſhing, yet ſtill greatneſs is onely made for few; but Nature's gifts are all diffuſive and free as the Air and Sun, and all the world do love, or if any are exempted from this great rule, 'tis onely they who place their happineſs on the top pi<g ref="char:EOLhyphen"/>nacle of Honour: ſome mighty King who can have an hundred thouſand men to await his pleaſure, yet he can't aſſure himſelf the conqueſt of
+<pb n="86" facs="tcp:30439:52"/>one Heart, and the perſon of ſome private Man ſhall be more taking than all His greatneſs: ſo that he often parts with the ſimple and in<g ref="char:EOLhyphen"/>nocent pleaſures of his life as the purchaſe of his Royalty.</p>
+               </sp>
+               <sp>
+                  <speaker>Anne of B.</speaker>
+                  <p>Thoſe exemptions they have as due to their condition, do not derogate from their happineſs, when we ſee their will is not only o<g ref="char:EOLhyphen"/>bey'd but even prevented, by all thoſe ſervices and cares which are offer'd to 'em, and on whom depends the raiſing of ſo many Fortunes. I think 'tis indifferent to know whe<g ref="char:EOLhyphen"/>ther they are eſteem'd for their Per<g ref="char:EOLhyphen"/>ſon or their Quality. You ſay am<g ref="char:EOLhyphen"/>bitious Joys are onely made for few, and 'tis that which makes me like it; thoſe that rule have ſo many advantages above other Men, that though they looſe ſome of thoſe lit<g ref="char:EOLhyphen"/>tle pleaſures which are common to the world, yet they are ſufficiently recompenc'd by the number of the reſt.</p>
+               </sp>
+               <sp>
+                  <pb n="87" facs="tcp:30439:52"/>
+                  <speaker>Mary of E.</speaker>
+                  <p>You may judge of the loſs they generally ſuffer by th' ſweet<g ref="char:EOLhyphen"/>neſs of the pleaſure which they ſome<g ref="char:EOLhyphen"/>times find in the enjoyment. I'll tell you a ſtory I lately heard here of an Engliſh Princeſs (who reign'd long and happy in that Kingdom without ever being Married:) When ſome Dutch Embaſſadours had their firſt Audience, it happen'd that there was a handſome young Man of the Retinue, who as ſoon as e'er he ſaw the Queen apply'd himſelf to thoſe that were near him, and ſaid ſome<g ref="char:EOLhyphen"/>thing with a low voice, but yet with ſuch an Air that the Queen could eaſily divine what he meant (for Women have an admirable In<g ref="char:EOLhyphen"/>ſtinct that way) and it prov'd that there was more wit in thoſe two or three words of that dull Hollander, than in the whole Harangue of the Embaſſadours; for as ſoon as they were diſmiſt the Preſence, ſhe being willing to ſatisfie her ſelf ſo far as to
+<pb n="88" facs="tcp:30439:53"/>know whether ſhe had gueſs'd the truth, ask't what that young Man ſaid, but was anſwered with much reſpect that they dar'd not repeat it to her; but at length ſhe made uſe of her authority, and commanded 'em to tell her, and then 'twas one<g ref="char:EOLhyphen"/>ly that he thought her Majeſty a very handſome Woman, with other ſuch dull expreſſions, which yet had ſenſe enough to pleaſe the Queen; and the event on't was, that when the Embaſſadours had their laſt Au<g ref="char:EOLhyphen"/>dience ſhe made the young Dutch<g ref="char:EOLhyphen"/>man a conſiderable Preſent. Obſerve therefore how in the midſt of all her Royalty and Greatneſs the pleaſure of being thought handſome did ſen<g ref="char:EOLhyphen"/>ſibly affect her.</p>
+               </sp>
+               <sp>
+                  <speaker>Anne of B.</speaker>
+                  <p>But yet ſhe never part<g ref="char:EOLhyphen"/>ed with her Crown, for all thoſe I<g ref="char:EOLhyphen"/>maginary pleaſures; that which is too ſimple and eaſie ſuits not with our natures, 'tis not enough that pleaſures tickle the imagination, but
+<pb n="89" facs="tcp:30439:53"/>they muſt tranſport it too, hence it is that the innocent lives of amo<g ref="char:EOLhyphen"/>rous Swains, which Poets paint with ſo much elegancy, are no where to be found but in their Poems, 'tis too ſoft e'er to ſucceed ſo far as to be put in practice.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary of E.</speaker>
+                  <p>Then what's the rea<g ref="char:EOLhyphen"/>ſon that the proſpect of the moſt glorious Court affords not ſo much pleaſure as the bare <hi>Idoea</hi> of this paſtoral life? unleſs it be that men are moſt naturally inclin'd and de<g ref="char:EOLhyphen"/>lighted with its innocency.</p>
+               </sp>
+               <sp>
+                  <speaker>Anne of B.</speaker>
+                  <p>So that your calm and eaſie pleaſures conſiſt onely in thoſe Chimera's which are form'd by an idle fancy.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary of E.</speaker>
+                  <p>No, No, for tho' ſome people are of ſo diſtemper'd a palate that they relliſh not thoſe Joys at firſt, yet in the end they do. After the imagination is tir'd in the pur<g ref="char:EOLhyphen"/>ſuit of ſuch falſe and fleeting ob<g ref="char:EOLhyphen"/>jects, it fixes it ſelf at laſt on thoſe that are true.</p>
+               </sp>
+            </div>
+            <div n="2" type="dialogue">
+               <pb n="90" facs="tcp:30439:54"/>
+               <head>DIALOGUE II. <hi>Between</hi> Charles <hi>Vth. and</hi> Eraſ<g ref="char:EOLhyphen"/>mus.</head>
+               <sp>
+                  <speaker>Eraſm.</speaker>
+                  <p>DOUBT it not, had I got hither among the dead, but one minute before you, I ſhould have diſputed the preemi<g ref="char:EOLhyphen"/>nence.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles.</speaker>
+                  <p>What? a Grammarian, a Scholar, and to puſh your preten<g ref="char:EOLhyphen"/>ſions as high as they can reach? a man of wit, to contend with me, who was ſo glorious in my life, as to ſee my ſelf maſter of the better part of <hi>Europe?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Eraſm.</speaker>
+                  <p>You may add <hi>America</hi> to the reſt of your Dominions, and yet I ſhall have as little reaſon to ſubmit to you. What was the ſource and fountain of all this greatneſs,
+<pb n="91" facs="tcp:30439:54"/>but blind Chance, which ſo wonder<g ref="char:EOLhyphen"/>fully united ſo many different parts into one Empire? If <hi>Ferdinand</hi> your Grand-father had been a man of honour, What pretenſions could you have had to any part of <hi>Italy?</hi> If other Princes had had but ſenſe e<g ref="char:EOLhyphen"/>nough to have believ'd the <hi>Antipo<g ref="char:EOLhyphen"/>des, Columbus</hi> would ne'er have ap<g ref="char:EOLhyphen"/>ply'd himſelf to him, nor <hi>America</hi> of the number of your Conqueſts; what wou'd have become of your Spaniſh <hi>Rhodomontade?</hi> That the ſon ne'er ſate in your Territorie's? If on the death of the Duke of <hi>Bur<g ref="char:EOLhyphen"/>gundy Lewis</hi> the 11th. had but re<g ref="char:EOLhyphen"/>flected on what he did, <hi>Maxi<g ref="char:EOLhyphen"/>milian</hi> had ne'er been Inſtated in that Dukedom, nor you in the Low Countries? If the Reputation of <hi>Henry</hi> of <hi>Caſtl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e,</hi> your great Uncle had not been ſcandalous among the women as to his manhood, as the Ver<g ref="char:EOLhyphen"/>tue of his wife ſomething doubtfull, his Daughter might have been well
+<pb n="92" facs="tcp:30439:55"/>enough thought Legitimate, and you had been depriv'd of the king<g ref="char:EOLhyphen"/>dom of <hi>Caſtile.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Charles V.</speaker>
+                  <p>Oh! you put me in<g ref="char:EOLhyphen"/>to a fright, then it ſeems I might have loſt <hi>Caſtile,</hi> the Low Countries, <hi>America,</hi> or <hi>Italy.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Eraſm.</speaker>
+                  <p>Mock not, you know not how to own theſe Truths, but at your own coſt, for as well the Im<g ref="char:EOLhyphen"/>potency of your Uncle as the levity of your Aunt, did contribute to your greatneſs; therefore ſee, how beautifull a Fabrick that is, which is built upon no other Foundation, than that of Chance.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles V.</speaker>
+                  <p>I know not how to ſuſ<g ref="char:EOLhyphen"/>tain ſo ſevere a ſcrutiny as yours, and acknowledge that your wit makes all my Grandeur diſappear.</p>
+               </sp>
+               <sp>
+                  <speaker>Eraſm.</speaker>
+                  <p>Yet theſe are the qualities you ſo much pride your ſelf upon, of which I have with ſo much eaſe deſpoil'd you. You may have heard the ſtory of <hi>Simon</hi> the Athenian,
+<pb n="93" facs="tcp:30439:55"/>who having taken many <hi>Perſian</hi> captives, expos'd 'em naked to be ſold, they on one hand, and their clothes on 'tother, which being ve<g ref="char:EOLhyphen"/>ry rich and gawdy, every body crowded to purchaſe 'em, whilſt the poor <hi>Perſians</hi> were not regarded: On my word the ſame which happen'd to thoſe <hi>Perſians</hi> would to others al<g ref="char:EOLhyphen"/>ſo, if their perſonal merit could but be ſeparated from that, for which they are indebted to Fortune.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles V.</speaker>
+                  <p>What is this perſonal merit, which you ſo much value your ſelf upon?</p>
+               </sp>
+               <sp>
+                  <speaker>Eraſm.</speaker>
+                  <p>Is that a queſtion to ask? 'tis that which is in our ſelves, and has no dependance on any thing without us, ſuch as wit, learning, &amp;c.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles V.</speaker>
+                  <p>And can a man with reaſon glory ſo much in theſe?</p>
+               </sp>
+               <sp>
+                  <speaker>Eraſm.</speaker>
+                  <p>Without doubt, they're not the gifts of Fortune, like nobili<g ref="char:EOLhyphen"/>ty and riches.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles V.</speaker>
+                  <p>That were ſtrange in<g ref="char:EOLhyphen"/>deed,
+<pb n="94" facs="tcp:30439:56"/>what don't the learn'd poſſeſs their knowledge, as men do their eſtates by ſucceſſion? don't you as much inherit the wiſedom of the Ancients as we do the poſſeſſions of our Fathers? Hence it is that the learn'd with the ſame veneration do regard their Opinions, as we do the Manſion-houſes of our fore-fathers, and commonly relinquiſh them with the ſame difficulty.</p>
+               </sp>
+               <sp>
+                  <speaker>Eraſm.</speaker>
+                  <p>No, for great men are born heirs to their fathers Fortunes, but Scholars by their Birth inherit no part of their learning; 'tis not deriv'd to us by ſucceſſion, but ac<g ref="char:EOLhyphen"/>quir'd by induſtry.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles V.</speaker>
+                  <p>Well then, the goods of Fortune are preſerv'd with the ſame difficulty, as thoſe of the mind are firſt acquir'd; and there's as much on't to be met with in the common affairs of the world as in the deep<g ref="char:EOLhyphen"/>eſt ſpeculations of the cloſet.</p>
+               </sp>
+               <sp>
+                  <speaker>Eraſm.</speaker>
+                  <p>We don't ſpeak of ſcien<g ref="char:EOLhyphen"/>ces
+<pb n="95" facs="tcp:30439:56"/>but of wit alone which has no dependance upon Chance.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles V.</speaker>
+                  <p>What does it not depend on a certain conformation of the brain? and is there not as much of Chance inbeing born a poſſeſſor of this happy diſpoſition, as there is inbeing born the ſon of a King? You had the good Fortune to be a witty man, yet ask a naturaliſt the reaſon why you were not as well dull and block<g ref="char:EOLhyphen"/>iſh, and he'll anſwer you, that the Fibres of your brain were of a more delicate contexture than ordinary, and ſome other ſwall matter which the moſt diſcerning Anatomiſt has not yet diſcover'd. Yet theſe witty gentlemen think they have reaſon to prefer themſelves before all others, as being ſo independent upon Chance.</p>
+               </sp>
+               <sp>
+                  <speaker>Eraſm.</speaker>
+                  <p>Therefore by your reck|'ning the rich and the witty are equally deſerving.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles V.</speaker>
+                  <p>I muſt confeſs 'tis bet<g ref="char:EOLhyphen"/>ter
+<pb n="96" facs="tcp:30439:57"/>luck to be born witty than rich, yet 'tis Fortune onely to which they are both indebted.</p>
+               </sp>
+               <sp>
+                  <speaker>Eraſm.</speaker>
+                  <p>Then every thing falls out by chance.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles V.</speaker>
+                  <p>Yes, all that happens we know not why: you ſhall be Judge if I have not laid open Man<g ref="char:EOLhyphen"/>kind more than you, who would onely take from 'em the Advantages of their Fortune, whereas I have that of their Wit too: Therefore if Men would but firſt aſſure them<g ref="char:EOLhyphen"/>ſelves, that any thing is their pro<g ref="char:EOLhyphen"/>per Right before they are proud on't, there would be no more vanity in the world.</p>
+               </sp>
+            </div>
+            <div n="3" type="dialogue">
+               <pb n="97" facs="tcp:30439:57"/>
+               <head>DIALOGUE III. <hi>Between Queen</hi> Elizabeth and <hi>Duke of</hi> Alenzon.</head>
+               <sp>
+                  <speaker>D. Alen.</speaker>
+                  <p>WHY did you flatter me ſo long with hopes of marriage, when you were reſolv'd ne'er to conſummate it?</p>
+               </sp>
+               <sp>
+                  <speaker>Q. Eliz.</speaker>
+                  <p>You were not the onely deluded perſon, there were others alſo who had as fair pretenſions. I was the <hi>Penelope</hi> of my age, there was You, the Duke of <hi>Anjou</hi> your brother, the Arch-Duke and the King of <hi>Sweden</hi> were all pretenders, and wou'd have been willing to have made your ſelves maſters of an Iſland, much more conſiderable than that of <hi>Itha<g ref="char:EOLhyphen"/>ca;</hi> I kept you in Chace for many Years, and when you had given me
+<pb facs="tcp:30439:58"/>ſufficient diverſion I diſmiſt you.</p>
+               </sp>
+               <sp>
+                  <speaker>D. Alen.</speaker>
+                  <p>Here are ſome among the dead, that will not allow that juſt reſemblance between you and <hi>Penople</hi> in every thing, but we ſel<g ref="char:EOLhyphen"/>dome light on ſuch compariſons as hold good in every point.</p>
+               </sp>
+               <sp>
+                  <speaker>Q. Eliz.</speaker>
+                  <p>If you had more wit, and leſs obſtinacy—</p>
+               </sp>
+               <sp>
+                  <speaker>D. Alen.</speaker>
+                  <p>Well well, to be ſerious, do but obſerve what Rhodomon<g ref="char:EOLhyphen"/>tades you made of your Virginity, witneſs that vaſt continent in <hi>Ame<g ref="char:EOLhyphen"/>rica,</hi> which you nam'd <hi>Virginia</hi> in memory of one of the moſt doubt<g ref="char:EOLhyphen"/>full of all your qualities, but yet this Country was in t'other world, and ſo 'twas well enough; but to return to the ſubject of our debate, give me but a reaſon of your myſte<g ref="char:EOLhyphen"/>rious conduct in all your projects of matrimony, was it that your Fa<g ref="char:EOLhyphen"/>ther <hi>Harry</hi> the Eighth's ſix marria<g ref="char:EOLhyphen"/>ges, was a leſſon for you not to Mar<g ref="char:EOLhyphen"/>ry at all, as the conſtant Rovings of
+<pb facs="tcp:30439:58"/>
+                     <hi>Charles</hi> the Fifth, taught his Son <hi>Philip</hi> the Second never to ſtir out of <hi>Madrid?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Q. Eliz.</speaker>
+                  <p>I might make that my pretence which you have furniſh't me with, and ſeem to diſlike it, be<g ref="char:EOLhyphen"/>cauſe my father ſpent all his life in marrying, and unmarrying, in di<g ref="char:EOLhyphen"/>vorcing himſelf from ſome, and cutting others heads off. But the true reaſon of this my Conduct, was becauſe I found more pleaſure in forming deſigns, and making pre<g ref="char:EOLhyphen"/>paration, than in putting 'em in Ex<g ref="char:EOLhyphen"/>ecution, for the expectation is al<g ref="char:EOLhyphen"/>ways more than the enjoyment; and as ſoon as Objects forſake the fancy where they have their being vaniſh into nothing: when you came into <hi>England</hi> to Court me, we had Balls, Masks, and Entertainments, nay it proceeded ſo far that I pre<g ref="char:EOLhyphen"/>ſented you with a Ring, and ſo much on't was pleaſant, as conſiſting onely in the <hi>Idaea,</hi> and Image of marri<g ref="char:EOLhyphen"/>age,
+<pb facs="tcp:30439:59"/>but when theſe grew ſtale, I preſerv'd my ſelf as I was, and ſent you home again.</p>
+               </sp>
+               <sp>
+                  <speaker>D. Alen.</speaker>
+                  <p>Then your maxims, and mine ſuited not well together, for mine reacht at ſomething more ſub<g ref="char:EOLhyphen"/>ſtantial than <hi>Chimaera</hi>'s.</p>
+               </sp>
+               <sp>
+                  <speaker>Q. Eliz.</speaker>
+                  <p>All the pleaſures of our lives conſiſt in ſuch imaginary fan<g ref="char:EOLhyphen"/>cies. Now I ſee you were not ſen<g ref="char:EOLhyphen"/>ſible of the greateſt happineſs of your life till 'twas too late.</p>
+               </sp>
+               <sp>
+                  <speaker>D. Alen.</speaker>
+                  <p>What ſatisfaction could I receieve in all my life, to whom no<g ref="char:EOLhyphen"/>thing e'er ſucceeded? I thought four times I ſhould have been a King, firſt of <hi>Poland,</hi> afterwards of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> then of <hi>Flanders,</hi> and laſt of all of <hi>France,</hi> which did of right belong to me, but the end of all my hopes was nothing.</p>
+               </sp>
+               <sp>
+                  <speaker>Q. El.</speaker>
+                  <p>See how much happiery ou were than you dream't of, you were always feaſted with hopes and ima<g ref="char:EOLhyphen"/>gination without having 'em de<g ref="char:EOLhyphen"/>ſtroy'd
+<pb n="101" facs="tcp:30439:59"/>by reality and enjoyment, for you did nothing all your life but make preparations for a Crown as I did for Matrimony.</p>
+               </sp>
+               <sp>
+                  <speaker>D. Alen.</speaker>
+                  <p>But I believe as a real marriage wou'd have done you no injury, ſo a ſubſtantial Crown would have much better pleas'd me.</p>
+               </sp>
+               <sp>
+                  <speaker>Q. Eliz.</speaker>
+                  <p>Pleaſures have not ſoli<g ref="char:EOLhyphen"/>dity enough to endure the touch, but vaniſh like fairy money in the handling, or not unlike to marſhy ground where men muſt tread but gently leſt they ſink.</p>
+               </sp>
+            </div>
+            <div n="4" type="dialogue">
+               <pb n="102" facs="tcp:30439:60"/>
+               <head>DIALOGUE IV. <hi>Between</hi> William de Cabeſtan <hi>and</hi> Albert Frederick <hi>of</hi> Brandenburgh.</head>
+               <sp>
+                  <speaker>A. de Bra.</speaker>
+                  <p>I Like you ſo much the better for having been as very a Fool as my ſelf: pray let me know the Hiſtory of your Folly, and how it firſt began.</p>
+               </sp>
+               <sp>
+                  <speaker>W. de Cab.</speaker>
+                  <p>I was a Poet of <hi>Pro<g ref="char:EOLhyphen"/>vance,</hi> and much eſteem'd by the age wherein I liv'd, which was the oc<g ref="char:EOLhyphen"/>caſion of all my misfortunes. It happen'd I fell in Love with a cer<g ref="char:EOLhyphen"/>tain Lady, to whom my Poems had done no ſmall honour, and ſhe re<g ref="char:EOLhyphen"/>liſh't 'em ſo well, that ſhe envy'd any other ſhould have the like ad<g ref="char:EOLhyphen"/>vantage; ſo to aſſure her ſelf of the fidelity of my Muſe, ſhe gave me,
+<pb n="103" facs="tcp:30439:60"/>ſome curs'd drink which turn'd my brains, and put me out of condition e'er of Rhyming more.</p>
+               </sp>
+               <sp>
+                  <speaker>A. de Bran.</speaker>
+                  <p>How many Years have you been dead?</p>
+               </sp>
+               <sp>
+                  <speaker>W. de Cab.</speaker>
+                  <p>I think it may be much about four hundred.</p>
+               </sp>
+               <sp>
+                  <speaker>A. de Bran.</speaker>
+                  <p>Certainly Poets were very ſcarce in that age, when they put that value on 'em as to poyſon 'em after ſuch a manner. Had it been your fortune to have liv'd in mine, you might have made your Poems on all the Beauties of the times, without fear of being poy<g ref="char:EOLhyphen"/>ſon'd for the matter.</p>
+               </sp>
+               <sp>
+                  <speaker>W. de Cab.</speaker>
+                  <p>I know it, for of all the wits that have come hither ſince, I have heard none complain of my deſtiny. But pray inform me how you became a fool?</p>
+               </sp>
+               <sp>
+                  <speaker>A. de Bran.</speaker>
+                  <p>After a very grave, and rational manner, there was a certain King became ſo onely at the ſight of an Apparation in a Forreſt,
+<pb n="104" facs="tcp:30439:61"/>which was no great matter, but what I ſaw was much more ter<g ref="char:EOLhyphen"/>rible.</p>
+               </sp>
+               <sp>
+                  <speaker>W. de Cab.</speaker>
+                  <p>What did you ſee?</p>
+               </sp>
+               <sp>
+                  <speaker>A. de Bran.</speaker>
+                  <p>Why, all the Cere<g ref="char:EOLhyphen"/>mony and preparation for marriage; I was wedded to <hi>Mary Eleanour</hi> of <hi>Cleaves,</hi> and during all the marriage Feaſt, I made ſuch ſerious and Ju<g ref="char:EOLhyphen"/>dicious Reflexions upon Matrimony, that from that time I quite loſt my wits.</p>
+               </sp>
+               <sp>
+                  <speaker>W. de Cab.</speaker>
+                  <p>Had you never any Intervals of reaſon in your Diſtrac<g ref="char:EOLhyphen"/>tion?</p>
+               </sp>
+               <sp>
+                  <speaker>A. de Bran.</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>W. de Cab.</speaker>
+                  <p>So much the worſe, 'twas my miſery to have my ſenſes quite returned again at laſt.</p>
+               </sp>
+               <sp>
+                  <speaker>A. de Bran.</speaker>
+                  <p>I ſhould ne'er have look't on that as a misfortune.</p>
+               </sp>
+               <sp>
+                  <speaker>W. de Cab.</speaker>
+                  <p>When one's once a fool 'tis beſt to be intirely ſo, 'tis onely your half-witted fools who have the returns of wit and folly,
+<pb n="105" facs="tcp:30439:61"/>and who happen to be ſo by Chance, whoſe number is very inconſider<g ref="char:EOLhyphen"/>able; but thoſe who are ſo by courſe of Nature and crack't in their Cra<g ref="char:EOLhyphen"/>dles, with whom the world's ſo throng'd, are always fools, and and are ſo fortunate as ne'er to ad<g ref="char:EOLhyphen"/>mit of any cure.</p>
+               </sp>
+               <sp>
+                  <speaker>A. de Bran.</speaker>
+                  <p>For my part I always thought that the lighteſt touches of folly were beſt.</p>
+               </sp>
+               <sp>
+                  <speaker>W. de Cab.</speaker>
+                  <p>Oh! then I find you never underſtood the uſe on't, for it hides a very melancholy proſpect from us, that of our ſelves; and as one wou'd never ſuffer ſuch uneaſi<g ref="char:EOLhyphen"/>neſs if one could help it, ſo nei<g ref="char:EOLhyphen"/>ther wou'd we any return of reaſon which ſhou'd cauſe it.</p>
+               </sp>
+               <sp>
+                  <speaker>A. de Bran.</speaker>
+                  <p>You ſay well, but you ſhall ne'er perſwade me that there are any other ſort of fools in the world, but thoſe that are like you and I; ſome men ſpeak reaſon, elſe 't had been no great mat<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:30439:62"/>to loſe one's wits, and thoſe that are Frantick could not be diſtinguiſh't from Men of Senſe.</p>
+               </sp>
+               <sp>
+                  <speaker>W. de Cab.</speaker>
+                  <p>The Frantick are onely fools of another kind, but the common follies of the world, though they are ne'er ſo extravagant, yet being of the ſame nature like <hi>Atoms</hi> of a reſembling figure, do ve<g ref="char:EOLhyphen"/>ry eaſily combine, and faſten the link of humane ſociety, witneſs the vain deſire of Immortality, falſe glory, and many other ſuch like Principles on which Mens Actions all are founded; but the Frantick are a certain ſort of fooles which can't be brought into order, neither will their follies ſuit with thoſe of o<g ref="char:EOLhyphen"/>thers, and therefore are not fit for the ordinary Commerce of Life.</p>
+               </sp>
+               <sp>
+                  <speaker>A. de Bran.</speaker>
+                  <p>Mad-men have ſo lit<g ref="char:EOLhyphen"/>tle wit as to treat every body like Mad-men and themſelves, but men of ſenſe do not ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>W. de Cab.</speaker>
+                  <p>You're miſtaken, all
+<pb n="107" facs="tcp:30439:62"/>men point at one another, and know not how to prevent that, which is ſo ordain'd by nature; The ſolitary Man laughs at the Courtier, yet ne<g ref="char:EOLhyphen"/>ver goes to Court, to let him know it. The Courtier too deſpiſes him, and yet never ſeeks to find him out in his retreat: If there were any party that was generally acknow<g ref="char:EOLhyphen"/>ledg'd to be moſt rational, all the world wou'd embrace it, and the crowd were not to be endur'd; 'tis better therefore that Mens Fancies were divided, ſo as not to hinder one another in their imaginary pur<g ref="char:EOLhyphen"/>ſuits, and continue ſtill to laugh at one another.</p>
+               </sp>
+               <sp>
+                  <speaker>A. de Bran.</speaker>
+                  <p>With all your rea<g ref="char:EOLhyphen"/>ſonings, I take you for a fool ſtill, and I believe the Lady's Potion has not done working in your Head.</p>
+               </sp>
+               <sp>
+                  <speaker>W. de Cab.</speaker>
+                  <p>Obſerve what Notion one fool has of another. True wiſe<g ref="char:EOLhyphen"/>dom diſtinguiſhes its poſſeſſors, but the Opinion of it equalls every bo<g ref="char:EOLhyphen"/>dy,
+<pb n="108" facs="tcp:30439:63"/>and yeilds as much content and ſatisfaction.</p>
+               </sp>
+            </div>
+            <div n="5" type="dialogue">
+               <head>DIALOGUE V. <hi>Between</hi> Agnes Sorel <hi>and</hi> Roxilana.</head>
+               <sp>
+                  <speaker>A. Sorel.</speaker>
+                  <p>TO ſpeak the truth, I can't comprehend your Turkiſh Gallantry, where your Lovers need onely Will, and without farther ceremony Enjoy: you make uſe of none of thoſe feign'd and engaging Reſiſtances (Love's moſt powerfull &amp; attractive charm) neither do men make their approa<g ref="char:EOLhyphen"/>ches with that gentle ſubmiſſion and care to pleaſe as they ought, ſo that your Sultans and Sultana's are inſen<g ref="char:EOLhyphen"/>ſible of the greateſt Joys of Love.</p>
+               </sp>
+               <sp>
+                  <speaker>Roxil.</speaker>
+                  <p>Why? the Turkiſh Em<g ref="char:EOLhyphen"/>perours, who are extremely jealous of their Power for ſome reaſons of
+<pb n="109" facs="tcp:30439:63"/>State, won't ſubmit to uſe that re<g ref="char:EOLhyphen"/>fin'd way of Courtſhip; they fear leſt thoſe Beauties who have natu<g ref="char:EOLhyphen"/>rally too great a power over Men, might by that means uſurp upon their Souls, and ſo intermeddle in State-affairs.</p>
+               </sp>
+               <sp>
+                  <speaker>A. Sorel.</speaker>
+                  <p>Perhaps that had not been ſo great a misfortune as they imagin'd; and often Love is not onely delightfull in it ſelf, but alſo of advantage to that which ſeems to have no dependance on't; I my ſelf was Miſtreſs to a King of <hi>France,</hi> and the abſolute Dominion which I had over him was the ſaving of my Country: you might have heard what extremity <hi>France</hi> was reduc't to in the time of <hi>Charles</hi> the Seventh, and how by the ſucceſsfull valour of the Engliſh 'twas almoſt brought to nothing.</p>
+               </sp>
+               <sp>
+                  <speaker>Roxil.</speaker>
+                  <p>Oh, yes; that Story made no ſmall noiſe here, how that <hi>France</hi> was ſav'd by a Woman: were you that Perſon then?</p>
+               </sp>
+               <sp>
+                  <pb n="110" facs="tcp:30439:64"/>
+                  <speaker>A. Sorel.</speaker>
+                  <p>No, you're miſtaken, you mean another; the King (who lov'd me) was juſt reſolv'd to quit his King<g ref="char:EOLhyphen"/>dom to the Conqueror, and retire for his Safety to the Mountains; but to defeat his deſign I contriv'd this Strategeme. I order'd a certain A<g ref="char:EOLhyphen"/>ſtrologer to come to me (whom I had privately manag'd before) to tell me my Fortune in the preſence of the King, and after he had ſeem'd to have conſider'd very well of my Nativity, The Stars (ſaid he) are the greateſt cheats in Nature, or elſe you will inſpire ſome great Monarch with a long and laſting paſſion; up<g ref="char:EOLhyphen"/>on which I appli'd my ſelf to the King, and told him, that I hop'd he wou'd not take it ill if I went to the Engliſh Court, becauſe he no lon<g ref="char:EOLhyphen"/>ger wou'd be King, and I lay under a neceſſity of fulfilling my Deſtiny. The fear of loſing me made him once more reſolve to be King of <hi>France,</hi> and from that time he be<g ref="char:EOLhyphen"/>gan
+<pb n="111" facs="tcp:30439:64"/>to be ſucceſsfull: <hi>France</hi> has therefore reaſon to be oblig'd to Love, and treat that kindly which was its preſervation.</p>
+               </sp>
+               <sp>
+                  <speaker>Roxil.</speaker>
+                  <p>'Tis true, but to return to the Maid: We have been therefore much deceiv'd in Story, which gives that honour to a Country Girl, which of Right belongs to a Court Lady, and the King's Miſtreſs.</p>
+               </sp>
+               <sp>
+                  <speaker>A. Sorel.</speaker>
+                  <p>There has been ſuch a Maid who by the Bravery of her Ac<g ref="char:EOLhyphen"/>tions and Speeches animated the fainting Souldiers, but 'twas I that firſt inſpir'd the King; ſhe did him no ſmall ſervice with her Sword, but he was indebted to my Charms for his Delivery: and in fine, you can have no longer reaſon to doubt of the good Service I did my faint<g ref="char:EOLhyphen"/>ing Country, when 'tis ſo manifeſt by the teſtimony of one of the Suc<g ref="char:EOLhyphen"/>ceſſours of <hi>Charles</hi> the Seventh in theſe Verſes.
+<pb n="112" facs="tcp:30439:65"/>
+                     <q>
+                        <l>What Cloyſter'd Nun or praying Her<g ref="char:EOLhyphen"/>mite dare</l>
+                        <l>With you moſt beauteous <hi>Agnes</hi> to compare?</l>
+                        <l>Your Charms have ſav'd your King and Country too,</l>
+                        <l>And that was more than all their Pray'rs cou'd doe.</l>
+                     </q> Now what ſay you <hi>Roxilana;</hi> if I had onely been a Sultana like you, and had no more power of <hi>Charles</hi> the Seventh than you had over your Sultans we had been all undone.</p>
+               </sp>
+               <sp>
+                  <speaker>Roxil.</speaker>
+                  <p>I admire at your vanity, to value your ſelf ſo much on ſo ſmall an action: What difficulty was there for you a free Woman and Miſtreſs of your ſelf to aſſume ſo much power over your Lover? But I had the courage to throw off all ſubjection to the Sultan, though I were his Slave; you made <hi>Charles</hi> the Seventh a King againſt his will,
+<pb n="113" facs="tcp:30439:65"/>and I made <hi>Solyman</hi> againſt his will my Husband.</p>
+               </sp>
+               <sp>
+                  <speaker>A. Sorel.</speaker>
+                  <p>How ſo? they ſay the Sultans never Marry.</p>
+               </sp>
+               <sp>
+                  <speaker>Roxil.</speaker>
+                  <p>'Tis true; yet it came in<g ref="char:EOLhyphen"/>to mine Head to eſpouſe <hi>Solyman</hi> (though he had ſo often ſatisfi'd his paſſion before, and to effect my de<g ref="char:EOLhyphen"/>ſign I contriv'd this Strategeme: Firſt I built many Moſques and Re<g ref="char:EOLhyphen"/>ligious Houſes, and perform'd ſome other actions of Piety and Devoti<g ref="char:EOLhyphen"/>on, and having ſo done, I diſſem<g ref="char:EOLhyphen"/>bled a profound Melancholy: The Sultan a thouſand times deſir'd to know the cauſe of it, to whom I re<g ref="char:EOLhyphen"/>ply'd after the Ceremony on't was over, that the Doctours of the Law had told me all my works of Piety would be of no advantage to my ſelf becauſe a Slave had perform'd 'em, and all I had done was for my Lord <hi>Solyman.</hi> Whereupon he pre<g ref="char:EOLhyphen"/>ſently made me Free, that I might reap the benefit of my own works;
+<pb n="114" facs="tcp:30439:66"/>afterwards when he would have ta<g ref="char:EOLhyphen"/>ken his former freedom with me, I told him with a grave and ſerious Air, I thought he had no power on the perſon of a Free Woman. <hi>Soly<g ref="char:EOLhyphen"/>man</hi> who was of a nice and tender Conſcience went immediately to conſult with a Doctour of the Law (whom I had ſecretly manag'd be<g ref="char:EOLhyphen"/>fore) and had this Anſwer return'd him; That he muſt have a care how he treated me any longer as a Slave, he himſelf having made me Free, and there was no way left of Enjoying me but Marriage. Upon this he was more Amorous than ever, and, contrary to the cuſtome of all his Predeceſſours, Marry'd me.</p>
+               </sp>
+               <sp>
+                  <speaker>A. Sorel.</speaker>
+                  <p>I muſt aknowledge that was pleaſant, to catch thoſe in that Net which they are ſo cautious to avoid.</p>
+               </sp>
+               <sp>
+                  <speaker>Roxil.</speaker>
+                  <p>Man is not that head<g ref="char:EOLhyphen"/>ſtrong Animal we fanſie, and when he is caught by th' paſſions, 'tis an
+<pb n="115" facs="tcp:30439:66"/>eaſie matter to lead him any where. Were I to live but once again, and had aſſign'd me the moſt Imperious of 'em all to manage, I would make him be my humbleſt Vaſſal, provided onely I had much Wit, ſome Beauty, and but a little Love.</p>
+               </sp>
+            </div>
+            <div n="6" type="dialogue">
+               <head>DIALOGUE VI. <hi>Between</hi> Joan <hi>of</hi> Naples <hi>and</hi> Anſelm.</head>
+               <sp>
+                  <speaker>J. of Nap.</speaker>
+                  <p>WHat, can't you let me know my For<g ref="char:EOLhyphen"/>tune? ſurely you han't forgot your Aſtrology that you were ſo great an Artiſt in i'th' t'other World?</p>
+               </sp>
+               <sp>
+                  <speaker>Anſel.</speaker>
+                  <p>Whence ſhould I take my obſervations? there's neither Stars nor Heaven here.</p>
+               </sp>
+               <sp>
+                  <pb n="116" facs="tcp:30439:67"/>
+                  <speaker>J. of Nap.</speaker>
+                  <p>'Tis no matter, I'll diſpence with you from obſerving all the rules of your Art ſo exactly.</p>
+               </sp>
+               <sp>
+                  <speaker>Anſel.</speaker>
+                  <p>That were pleaſant, for a Man that's dead to turn Aſtrologer; But what wou'd you deſire to know?</p>
+               </sp>
+               <sp>
+                  <speaker>J. of Nap.</speaker>
+                  <p>Something in relation to my ſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>Anſel.</speaker>
+                  <p>Good! why you are dead, and will be always ſo, and your Af<g ref="char:EOLhyphen"/>fairs and condition here will always remain in the ſame poſture, and that's the ſumm of all that I can tell you.</p>
+               </sp>
+               <sp>
+                  <speaker>J. of Nap.</speaker>
+                  <p>That's it which gives me all my trouble, I am well enough aſſur'd there's nothing new can hap<g ref="char:EOLhyphen"/>pen here, yet if you wou'd but fore<g ref="char:EOLhyphen"/>tell me ſomething, the thoughts on't wou'd divert me. You cannot Imagine how melancholy it is to have a proſpect ſtill of the ſame For<g ref="char:EOLhyphen"/>tune: Come, one little Prediction I beſeech you, be it what it will.</p>
+               </sp>
+               <sp>
+                  <speaker>Anſel.</speaker>
+                  <p>Cou'd one believe that you ſhou'd ſuffer the ſame uneaſineſſes
+<pb facs="tcp:30439:67"/>here that you did above? there they are never ſatisfy'd with the pre<g ref="char:EOLhyphen"/>ſent, and are always anticipating the Future; we ſhould be wiſer now we are here.</p>
+               </sp>
+               <sp>
+                  <speaker>J. of Nap.</speaker>
+                  <p>If men do ſo, 'tis not without reaſon; the preſent time is but an inſtant, and 'twere great pity to bound one's life but with that one point, and take no delightfull proſ<g ref="char:EOLhyphen"/>pect beyond that; is it not much bet<g ref="char:EOLhyphen"/>ter to enjoy the future with the pre<g ref="char:EOLhyphen"/>ſent, than that alone which creates all the pleaſures of Avarice?</p>
+               </sp>
+               <sp>
+                  <speaker>Anſel.</speaker>
+                  <p>And what's the event on't? they borrow ſo much from the fu<g ref="char:EOLhyphen"/>ture by their hopes and fancies, that when it becomes the preſent they find it ſo rifled and deflour'd that they know not how to reliſh it: And though the pleaſure's dead, yet their Impatiences are not ſo. 'Tis the great concern of Men to know what will be; and therefore the Aſtrologers are ſo hunted after to
+<pb facs="tcp:30439:68"/>inform 'em, who tell 'em, with a great deal of Confidence, that there are hot and cold Signs, Male and Female; that ſome Planets are good, and others hurtfull; and that ſome are neither one nor t'other, but are ſo complaiſant to conform them<g ref="char:EOLhyphen"/>ſelves according to the humour of the Company they are found in; yet all theſe Follies are very well re<g ref="char:EOLhyphen"/>ceiv'd, becauſe they are in hopes by them to be brought to the know<g ref="char:EOLhyphen"/>ledge of the future.</p>
+               </sp>
+               <sp>
+                  <speaker>J. of Nap.</speaker>
+                  <p>What? do they let us know nothing then? I wonder that you who were my Aſtrologer ſhou'd ſpeak ſo ill of your own Art.</p>
+               </sp>
+               <sp>
+                  <speaker>Anſel.</speaker>
+                  <p>Heark ye! the Dead don't uſe to lie, I abus'd you with that very Art which I profeſt, and you ſo much eſteem'd.</p>
+               </sp>
+               <sp>
+                  <speaker>J. of Nap.</speaker>
+                  <p>Oh! but I won't be<g ref="char:EOLhyphen"/>lieve you: how cou'd you foretell me then that I ſhould be four times
+<pb n="119" facs="tcp:30439:68"/>marry'd? and what probability was there that any rational perſon wou'd let her ſelf be ſo often caught in the ſame Nooſe? therefore I am certain you read my Deſtiny in the Stars.</p>
+               </sp>
+               <sp>
+                  <speaker>Anſel.</speaker>
+                  <p>I'll aſſure ye I conſul<g ref="char:EOLhyphen"/>ted the Stars much leſs than your Inclinations, and though ſome of our Predictions come to paſs, yet this is no proof of the Infallibility of the Art. I cou'd bring you to one of our Fraternity, who can tell you a very pleaſant Story on this Subject. This Man was a profeſt Aſtrologer, and rely'd as little upon his own Art as ever I did; yet to ſatisfie himſelf whether there was any certainty in it or not, he dedicated one whole day to make his Obſervations, whether the particular Actions of it cou'd any ways anſwer to his Rules, and it happen'd that he foretold ma<g ref="char:EOLhyphen"/>ny things which were far more ſtrange than your four Marriages, which mightily ſurpriz'd him: but
+<pb facs="tcp:30439:69"/>afterwards more narrowly examin<g ref="char:EOLhyphen"/>ing his Aſtronomical Tables, on which his Predictions were groun<g ref="char:EOLhyphen"/>ded, he found 'em to be all falſe and imperfect; and if they had been rightly made, he ſhould have been oblig'd to have foretold the quite contrary.</p>
+               </sp>
+               <sp>
+                  <speaker>J. of Nap.</speaker>
+                  <p>If this be true I'm for<g ref="char:EOLhyphen"/>ry I knew it not in t'other World, that we might have been no longer cheated with theſe Impoſtors.</p>
+               </sp>
+               <sp>
+                  <speaker>Anſel.</speaker>
+                  <p>There are Stories enough in the World to their diſadvantage, and yet the Art continues ſtill in vogue. Men are ſo Infatuated with a deſire of knowing what's to come, that they will by no means ſuffer themſelves to be diſabus'd, with pleaſure they ſacrifice their All to a future hopes; yet when it comes to their poſſeſſion, they ſtreight fly from it as if ſpightfull Nature had ſo ordain'd, that Mankind ſhould ne'er enjoy thoſe goods they have,
+<pb facs="tcp:30439:69"/>nor think of making themſelves happy the preſent moment, but ſtill refer it to that which is to come, as if at its Arrival, it wou'd not be like the former.</p>
+               </sp>
+               <sp>
+                  <speaker>J. of Nap.</speaker>
+                  <p>I own 'tis ſtill the ſame, yet 'tis not good that one ſhould think ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Anſel.</speaker>
+                  <p>I ſhall make you under<g ref="char:EOLhyphen"/>ſtand the folly of this fond Opinion, by the Relation of a Fable: There was a Man that was thirſty, and ſitting at a Fountain-head, refus'd to taſte the Waters, becauſe he hop'd at length they wou'd become more clear and pure, the Waters ſtill continu'd running, yet ſtill the ſame; which made him wait as formerly in expectation. But at laſt the Foun<g ref="char:EOLhyphen"/>tain became dry, and when he wou'd, there was nothing left for him to drink.</p>
+               </sp>
+               <sp>
+                  <speaker>J. of Nap.</speaker>
+                  <p>I believe this ſtory might not onely be appli'd to me, but to all the dead, and our Glaſs of
+<pb facs="tcp:30439:70"/>Life is quite run out, before we know what uſe to make of it. But what then? methinks 'tis Expecta<g ref="char:EOLhyphen"/>tion makes the greateſt Bleſſing, and there is ſomething of pleaſure not onely in the hope, but in the fear of what's to come: wou'd you have a Man live in the world, as we do here, where the preſent and the future are all alike?</p>
+               </sp>
+               <sp>
+                  <speaker>Anſel.</speaker>
+                  <p>Man's Life were very plea<g ref="char:EOLhyphen"/>ſant indeed, if all the happineſs on't conſiſted in the proſpect of diſtant and imaginary Objects. What plea<g ref="char:EOLhyphen"/>ſure can it be to aſpire at that which can be ne'er enjoy'd, and purſue a ſha<g ref="char:EOLhyphen"/>dow which can ne'er be Caught?</p>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:30439:70"/>
+            <head>A Catalogue of new Books Printed for, and ſold by <hi>James Norris;</hi> at the <hi>King's Arms</hi> without <hi>Tem<g ref="char:EOLhyphen"/>ple-Bar. 1684.</hi>
+            </head>
+            <list>
+               <item>1. <hi>MAſſinello,</hi> or a Satyr a<g ref="char:EOLhyphen"/>gainſt the Aſſociation, and the Guild-hall Riot, <hi>Quarto.</hi>
+               </item>
+               <item>2. <hi>Eromena,</hi> or the Noble ſtran<g ref="char:EOLhyphen"/>ger, a curious Novell, <hi>Octavo.</hi>
+               </item>
+               <item>3. <hi>Tractatus adverſus Reproba<g ref="char:EOLhyphen"/>tionis abſolutae decretum, nova metho<g ref="char:EOLhyphen"/>do &amp; ſuccentiſſimo compendio adorna<g ref="char:EOLhyphen"/>tus &amp; in duos Libros digeſtus,</hi> Octa<g ref="char:EOLhyphen"/>vo.</item>
+               <item>4. An <hi>Idea</hi> of Happineſs, in a Letter to a Friend, enquiring wherein the greateſt happineſs attainable by Man in this Life does conſiſt, <hi>Quarto.</hi>
+               </item>
+               <item>5. A <hi>Murnival</hi> of Knaves, or Whiggiſm plainly diſplay'd, and, if not grown ſhameleſs, Burleſqu'd out of Countenance, <hi>Quarto.</hi>
+               </item>
+               <pb facs="tcp:30439:71"/>
+               <item>6. The accompliſh't Lady, or deſerving Gentle-woman; being a Vindication of Innocent and Harm<g ref="char:EOLhyphen"/>leſs Females from the Aſperſions of Malicious Men; wherein are contained many Eminent exam<g ref="char:EOLhyphen"/>ples of the Conſtancy, Chaſtity, Prudence, Policy, Valour, Learn<g ref="char:EOLhyphen"/>ing, <hi>&amp;c.</hi> wherein they have not onely equall'd, but excell'd many of the contrary Sex, <hi>Twelves.</hi>
+               </item>
+               <item>7. <hi>Patriae Parricida,</hi> or the Hi<g ref="char:EOLhyphen"/>ſtory of the horrid Conſpiracy of <hi>Cataline,</hi> againſt the Common-Wealth of <hi>Rome,</hi> in Engliſh, <hi>Octa<g ref="char:EOLhyphen"/>vo.</hi>
+               </item>
+               <item>8. <hi>Core Redivivus,</hi> in a Sermon Preach'd at <hi>Chriſt-Church</hi> Taber<g ref="char:EOLhyphen"/>nacle, in <hi>London,</hi> upon <hi>Sunday, September</hi> the 9th. 1683. being a day of Publick Thankſgiving for the late Deliverance of his ſacred Maje<g ref="char:EOLhyphen"/>ſty's Perſon and Government, from the Treaſonable Rebellion and Fana<g ref="char:EOLhyphen"/>tick Conſpiracy, <hi>Quarto.</hi>
+               </item>
+               <pb facs="tcp:30439:71"/>
+               <item>9. <hi>Romes</hi> Rarities, or the <hi>Pope</hi>'s Ca<g ref="char:EOLhyphen"/>binet unlock'd and expos'd to veiw, being a true and faithfull account of the Blaſphemy, Treaſon, Maſſa<g ref="char:EOLhyphen"/>cres, Murders, Lechery, Whore<g ref="char:EOLhyphen"/>dom, Buggery, Sodomy, Debau<g ref="char:EOLhyphen"/>chery, Pious Frauds, <hi>&amp;c.</hi> of the <hi>Romiſh</hi>-Church, from the <hi>Pope</hi> him<g ref="char:EOLhyphen"/>ſelf to the Prieſt, or inferiour Cler<g ref="char:EOLhyphen"/>gy, <hi>Octavo.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
